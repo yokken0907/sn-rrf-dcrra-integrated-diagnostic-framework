@@ -1,0 +1,349 @@
+galaxy,failure_boundary_condition,category,diagnostic_note
+CamB,pathology_archive_zone,archive_not_repaired,Do not promote to physical interpretation.
+CamB,low_rotation_curve_point_count,data_density_risk,Low point count can destabilize residual-regime interpretation.
+CamB,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+DDO064,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+DDO064,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+DDO064,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+DDO064,family_rar_comparator_degeneracy,comparator_boundary,No strong family-vs-RAR diagnostic separation under AIC threshold 10.
+DDO154,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+DDO161,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+DDO168,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+DDO170,low_rotation_curve_point_count,data_density_risk,Low point count can destabilize residual-regime interpretation.
+DDO170,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+DDO170,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+ESO079-G014,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+ESO116-G012,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+ESO116-G012,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+ESO563-G021,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+F563-1,nuisance_sensitive_zone,nuisance_boundary,Treat as systematics/model-sensitivity boundary material.
+F563-1,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+F563-1,family_rar_comparator_degeneracy,comparator_boundary,No strong family-vs-RAR diagnostic separation under AIC threshold 10.
+F563-V2,nuisance_sensitive_zone,nuisance_boundary,Treat as systematics/model-sensitivity boundary material.
+F563-V2,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+F563-V2,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+F563-V2,family_rar_comparator_degeneracy,comparator_boundary,No strong family-vs-RAR diagnostic separation under AIC threshold 10.
+F568-1,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+F568-1,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+F568-1,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+F568-1,family_rar_comparator_degeneracy,comparator_boundary,No strong family-vs-RAR diagnostic separation under AIC threshold 10.
+F568-3,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+F568-V1,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+F568-V1,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+F568-V1,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+F568-V1,family_rar_comparator_degeneracy,comparator_boundary,No strong family-vs-RAR diagnostic separation under AIC threshold 10.
+F571-8,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+F571-8,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+F574-1,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+F574-1,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+F579-V1,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+F579-V1,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+F579-V1,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+F583-1,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+F583-1,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+F583-4,pathology_archive_zone,archive_not_repaired,Do not promote to physical interpretation.
+F583-4,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+F583-4,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+F583-4,family_rar_comparator_degeneracy,comparator_boundary,No strong family-vs-RAR diagnostic separation under AIC threshold 10.
+IC2574,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+IC2574,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+IC4202,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+KK98-251,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC0024,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC0024,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+NGC0055,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC0100,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+NGC0100,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC0247,nuisance_sensitive_zone,nuisance_boundary,Treat as systematics/model-sensitivity boundary material.
+NGC0247,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+NGC0247,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC0289,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+NGC0289,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC0289,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+NGC0300,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+NGC0300,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC0801,pathology_archive_zone,archive_not_repaired,Do not promote to physical interpretation.
+NGC0801,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+NGC0801,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC0801,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+NGC0891,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+NGC0891,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC1003,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC1090,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+NGC1090,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC1705,nuisance_sensitive_zone,nuisance_boundary,Treat as systematics/model-sensitivity boundary material.
+NGC1705,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC1705,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+NGC1705,family_rar_comparator_degeneracy,comparator_boundary,No strong family-vs-RAR diagnostic separation under AIC threshold 10.
+NGC2403,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+NGC2403,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC2683,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+NGC2683,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+NGC2841,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC2841,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+NGC2915,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+NGC2915,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC2955,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC2955,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+NGC2976,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+NGC2976,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC2998,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+NGC2998,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC3109,nuisance_sensitive_zone,nuisance_boundary,Treat as systematics/model-sensitivity boundary material.
+NGC3109,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC3198,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+NGC3198,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC3521,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC3726,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+NGC3726,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC3726,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+NGC3741,nuisance_sensitive_zone,nuisance_boundary,Treat as systematics/model-sensitivity boundary material.
+NGC3741,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC3769,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+NGC3769,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC3769,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+NGC3769,family_rar_comparator_degeneracy,comparator_boundary,No strong family-vs-RAR diagnostic separation under AIC threshold 10.
+NGC3877,pathology_archive_zone,archive_not_repaired,Do not promote to physical interpretation.
+NGC3877,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+NGC3877,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC3893,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+NGC3893,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+NGC3893,family_rar_comparator_degeneracy,comparator_boundary,No strong family-vs-RAR diagnostic separation under AIC threshold 10.
+NGC3917,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+NGC3953,low_rotation_curve_point_count,data_density_risk,Low point count can destabilize residual-regime interpretation.
+NGC3953,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+NGC3953,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC3953,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+NGC3972,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+NGC3972,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC3972,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+NGC3972,family_rar_comparator_degeneracy,comparator_boundary,No strong family-vs-RAR diagnostic separation under AIC threshold 10.
+NGC3992,low_rotation_curve_point_count,data_density_risk,Low point count can destabilize residual-regime interpretation.
+NGC3992,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+NGC3992,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC3992,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+NGC4010,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+NGC4010,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC4010,family_rar_comparator_degeneracy,comparator_boundary,No strong family-vs-RAR diagnostic separation under AIC threshold 10.
+NGC4013,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+NGC4013,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC4088,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+NGC4088,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC4088,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+NGC4088,family_rar_comparator_degeneracy,comparator_boundary,No strong family-vs-RAR diagnostic separation under AIC threshold 10.
+NGC4100,family_rar_comparator_degeneracy,comparator_boundary,No strong family-vs-RAR diagnostic separation under AIC threshold 10.
+NGC4157,nuisance_sensitive_zone,nuisance_boundary,Treat as systematics/model-sensitivity boundary material.
+NGC4157,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+NGC4157,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC4157,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+NGC4157,family_rar_comparator_degeneracy,comparator_boundary,No strong family-vs-RAR diagnostic separation under AIC threshold 10.
+NGC4183,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+NGC4183,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC4183,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+NGC4214,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+NGC4214,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC4217,pathology_archive_zone,archive_not_repaired,Do not promote to physical interpretation.
+NGC4217,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+NGC4217,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC4559,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC5005,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC5005,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+NGC5005,family_rar_comparator_degeneracy,comparator_boundary,No strong family-vs-RAR diagnostic separation under AIC threshold 10.
+NGC5033,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+NGC5033,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC5055,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC5371,pathology_archive_zone,archive_not_repaired,Do not promote to physical interpretation.
+NGC5371,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+NGC5371,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC5585,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+NGC5585,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC5907,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+NGC5907,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC5907,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+NGC5985,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC6015,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+NGC6015,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC6195,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC6503,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC6674,pathology_archive_zone,archive_not_repaired,Do not promote to physical interpretation.
+NGC6674,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+NGC6674,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC6674,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+NGC6946,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+NGC6946,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC6946,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+NGC7331,nuisance_sensitive_zone,nuisance_boundary,Treat as systematics/model-sensitivity boundary material.
+NGC7793,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+NGC7793,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC7814,nuisance_sensitive_zone,nuisance_boundary,Treat as systematics/model-sensitivity boundary material.
+NGC7814,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+NGC7814,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+NGC7814,family_rar_comparator_degeneracy,comparator_boundary,No strong family-vs-RAR diagnostic separation under AIC threshold 10.
+UGC00128,nuisance_sensitive_zone,nuisance_boundary,Treat as systematics/model-sensitivity boundary material.
+UGC00128,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC00191,low_rotation_curve_point_count,data_density_risk,Low point count can destabilize residual-regime interpretation.
+UGC00191,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+UGC00191,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC00191,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+UGC00731,nuisance_sensitive_zone,nuisance_boundary,Treat as systematics/model-sensitivity boundary material.
+UGC00731,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC00731,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+UGC01230,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+UGC01230,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC01230,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+UGC01281,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+UGC01281,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC01281,family_rar_comparator_degeneracy,comparator_boundary,No strong family-vs-RAR diagnostic separation under AIC threshold 10.
+UGC02259,nuisance_sensitive_zone,nuisance_boundary,Treat as systematics/model-sensitivity boundary material.
+UGC02259,low_rotation_curve_point_count,data_density_risk,Low point count can destabilize residual-regime interpretation.
+UGC02259,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+UGC02259,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC02259,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+UGC02455,pathology_archive_zone,archive_not_repaired,Do not promote to physical interpretation.
+UGC02455,low_rotation_curve_point_count,data_density_risk,Low point count can destabilize residual-regime interpretation.
+UGC02455,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC02455,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+UGC02487,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC02885,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC02916,nuisance_sensitive_zone,nuisance_boundary,Treat as systematics/model-sensitivity boundary material.
+UGC02916,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+UGC02916,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC02953,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC03205,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC03546,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC04278,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC04305,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+UGC04305,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC04305,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+UGC04325,low_rotation_curve_point_count,data_density_risk,Low point count can destabilize residual-regime interpretation.
+UGC04325,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+UGC04325,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+UGC04483,low_rotation_curve_point_count,data_density_risk,Low point count can destabilize residual-regime interpretation.
+UGC04483,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC04483,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+UGC04499,low_rotation_curve_point_count,data_density_risk,Low point count can destabilize residual-regime interpretation.
+UGC04499,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC04499,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+UGC05005,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+UGC05005,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC05005,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+UGC05005,family_rar_comparator_degeneracy,comparator_boundary,No strong family-vs-RAR diagnostic separation under AIC threshold 10.
+UGC05253,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC05716,nuisance_sensitive_zone,nuisance_boundary,Treat as systematics/model-sensitivity boundary material.
+UGC05716,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC05721,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC05750,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+UGC05750,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+UGC05750,family_rar_comparator_degeneracy,comparator_boundary,No strong family-vs-RAR diagnostic separation under AIC threshold 10.
+UGC05764,nuisance_sensitive_zone,nuisance_boundary,Treat as systematics/model-sensitivity boundary material.
+UGC05764,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC05829,nuisance_sensitive_zone,nuisance_boundary,Treat as systematics/model-sensitivity boundary material.
+UGC05829,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC05829,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+UGC05918,nuisance_sensitive_zone,nuisance_boundary,Treat as systematics/model-sensitivity boundary material.
+UGC05918,low_rotation_curve_point_count,data_density_risk,Low point count can destabilize residual-regime interpretation.
+UGC05918,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC05918,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+UGC05918,family_rar_comparator_degeneracy,comparator_boundary,No strong family-vs-RAR diagnostic separation under AIC threshold 10.
+UGC05986,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+UGC05986,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC06399,low_rotation_curve_point_count,data_density_risk,Low point count can destabilize residual-regime interpretation.
+UGC06399,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+UGC06399,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC06399,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+UGC06399,family_rar_comparator_degeneracy,comparator_boundary,No strong family-vs-RAR diagnostic separation under AIC threshold 10.
+UGC06446,nuisance_sensitive_zone,nuisance_boundary,Treat as systematics/model-sensitivity boundary material.
+UGC06446,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC06446,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+UGC06614,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+UGC06614,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+UGC06614,family_rar_comparator_degeneracy,comparator_boundary,No strong family-vs-RAR diagnostic separation under AIC threshold 10.
+UGC06667,nuisance_sensitive_zone,nuisance_boundary,Treat as systematics/model-sensitivity boundary material.
+UGC06667,low_rotation_curve_point_count,data_density_risk,Low point count can destabilize residual-regime interpretation.
+UGC06667,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC06667,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+UGC06786,nuisance_sensitive_zone,nuisance_boundary,Treat as systematics/model-sensitivity boundary material.
+UGC06786,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+UGC06786,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC06787,nuisance_sensitive_zone,nuisance_boundary,Treat as systematics/model-sensitivity boundary material.
+UGC06787,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+UGC06787,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC06818,low_rotation_curve_point_count,data_density_risk,Low point count can destabilize residual-regime interpretation.
+UGC06818,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC06818,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+UGC06917,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+UGC06917,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC06917,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+UGC06917,family_rar_comparator_degeneracy,comparator_boundary,No strong family-vs-RAR diagnostic separation under AIC threshold 10.
+UGC06930,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+UGC06930,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC06930,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+UGC06973,pathology_archive_zone,archive_not_repaired,Do not promote to physical interpretation.
+UGC06973,low_rotation_curve_point_count,data_density_risk,Low point count can destabilize residual-regime interpretation.
+UGC06973,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+UGC06973,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC06983,nuisance_sensitive_zone,nuisance_boundary,Treat as systematics/model-sensitivity boundary material.
+UGC06983,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+UGC06983,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC06983,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+UGC07089,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+UGC07089,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC07089,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+UGC07089,family_rar_comparator_degeneracy,comparator_boundary,No strong family-vs-RAR diagnostic separation under AIC threshold 10.
+UGC07125,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC07125,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+UGC07151,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+UGC07323,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+UGC07323,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC07323,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+UGC07323,family_rar_comparator_degeneracy,comparator_boundary,No strong family-vs-RAR diagnostic separation under AIC threshold 10.
+UGC07399,nuisance_sensitive_zone,nuisance_boundary,Treat as systematics/model-sensitivity boundary material.
+UGC07399,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC07524,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+UGC07524,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC07577,pathology_archive_zone,archive_not_repaired,Do not promote to physical interpretation.
+UGC07577,low_rotation_curve_point_count,data_density_risk,Low point count can destabilize residual-regime interpretation.
+UGC07577,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC07577,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+UGC07603,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC07608,low_rotation_curve_point_count,data_density_risk,Low point count can destabilize residual-regime interpretation.
+UGC07608,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC07608,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+UGC07608,family_rar_comparator_degeneracy,comparator_boundary,No strong family-vs-RAR diagnostic separation under AIC threshold 10.
+UGC08286,nuisance_sensitive_zone,nuisance_boundary,Treat as systematics/model-sensitivity boundary material.
+UGC08286,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+UGC08286,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC08490,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC08550,nuisance_sensitive_zone,nuisance_boundary,Treat as systematics/model-sensitivity boundary material.
+UGC08550,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+UGC08550,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC08699,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC08837,low_rotation_curve_point_count,data_density_risk,Low point count can destabilize residual-regime interpretation.
+UGC09037,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC09037,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+UGC11455,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC11557,pathology_archive_zone,archive_not_repaired,Do not promote to physical interpretation.
+UGC11557,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+UGC11557,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC11557,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+UGC11557,family_rar_comparator_degeneracy,comparator_boundary,No strong family-vs-RAR diagnostic separation under AIC threshold 10.
+UGC11820,nuisance_sensitive_zone,nuisance_boundary,Treat as systematics/model-sensitivity boundary material.
+UGC11820,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+UGC11820,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC11914,pathology_archive_zone,archive_not_repaired,Do not promote to physical interpretation.
+UGC11914,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+UGC11914,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC12506,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+UGC12506,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC12632,nuisance_sensitive_zone,nuisance_boundary,Treat as systematics/model-sensitivity boundary material.
+UGC12632,low_proxy_centroid_margin,proxy_degeneracy,Proxy-only constructive control gives weak class-separation margin.
+UGC12632,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGC12632,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.
+UGC12732,nuisance_sensitive_zone,nuisance_boundary,Treat as systematics/model-sensitivity boundary material.
+UGC12732,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGCA442,nuisance_sensitive_zone,nuisance_boundary,Treat as systematics/model-sensitivity boundary material.
+UGCA442,low_rotation_curve_point_count,data_density_risk,Low point count can destabilize residual-regime interpretation.
+UGCA442,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGCA444,nuisance_sensitive_zone,nuisance_boundary,Treat as systematics/model-sensitivity boundary material.
+UGCA444,neighbor_monotone_kernel_competes_or_beats_locked_kernel,fixed_exponent_nonuniqueness,Supports family interpretation rather than fixed exponent.
+UGCA444,family_nfw_comparator_degeneracy,comparator_boundary,No strong family-vs-NFW diagnostic separation under AIC threshold 10.

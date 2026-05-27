@@ -1,0 +1,49 @@
+{
+  "stage": "STAGE21-DIMENSIONLESS-MANIFOLD-AUDIT",
+  "valid_population_count": 143,
+  "strict_stage20_context": "Stage20 strict rectangular normal band was inconclusive; Stage21 tests a weaker class-level manifold and pathology moat.",
+  "predeclared_normal_band": {
+    "s_c_range": [
+      0.2,
+      0.5
+    ],
+    "lambda_range": [
+      0.4,
+      1.2
+    ]
+  },
+  "pathology_moat_definition": {
+    "s_c_gt": 1.0,
+    "lambda_gt": 5.0
+  },
+  "robust_manifold_calibration": {
+    "center_log10_s_c": -0.5370541194479002,
+    "center_log10_lambda": -0.11525640540278227,
+    "scale_log10_s_c": 0.305982304630787,
+    "scale_log10_lambda": 0.07648875835066102,
+    "distance_threshold_q80": 1.7985046813450292,
+    "distance_threshold_q90": 2.184279411265519,
+    "distance_threshold_q95": 2.686002364671763
+  },
+  "main_results": {
+    "nonpath_class_medians_in_predeclared_normal_band": true,
+    "pathology_class_median_in_pathology_moat": true,
+    "nonpath_pathology_false_positive_rate": 0.0,
+    "pathology_moat_hit_rate": 0.8571428571428571,
+    "robust_q90_manifold_inside_fraction": 0.8961038961038961,
+    "nonpath_q90_manifold_inside_fraction": 0.8602941176470589,
+    "pathology_q90_manifold_inside_fraction": 0.14285714285714285,
+    "pathology_q90_manifold_exclusion_fraction": 0.8571428571428572
+  },
+  "decision": "AUTHORIZE-STAGE22-SN-RRF-MANIFOLD-REFORMULATION",
+  "claim_boundary": [
+    "No dark-matter exclusion claim.",
+    "No Lambda-CDM replacement claim.",
+    "No MOND/RAR defeat claim.",
+    "No Bullet-Cluster explanation claim.",
+    "No physical proof of a TVC mechanism.",
+    "No Hubble-tension solution claim.",
+    "SN-RRF manifold diagnostic only.",
+    "No universal per-galaxy normal-band claim."
+  ]
+}

@@ -1,0 +1,14 @@
+Evaluation-Only Research License
+
+Copyright (c) 2026 Keiji Yoshimura.
+
+This repository is provided for research reading, reproducibility inspection, and evaluation only.
+No warranty is provided. No industrial, clinical, safety-critical, or operational use is authorized
+without independent expert review, validation, and separate written permission where applicable.
+
+The repository does not claim dark-matter exclusion, Lambda-CDM replacement, MOND/RAR falsification,
+Bullet-Cluster explanation, proof of a physical TVC mechanism, proof of a universal fixed exponent,
+or a Hubble-tension solution.
+
+Zenodo DOI: https://doi.org/10.5281/zenodo.20224479
+GitHub: https://github.com/yokken0907/a10-tvc-rrf-galaxy-residual-diagnostic

@@ -1,0 +1,6 @@
+Source archive checksums used to build this complete repository package.
+The source ZIP archives are not duplicated inside the repository to avoid unnecessary bloat; their contents are expanded under source_lineage/.
+
+sn-rrf-galaxy-residual-diagnostic_v2.0.1_claim_bounded.zip	7774835	7bc2bdee5b2c588df152fbcbb1603ee8595122b1e1e688fc61d12c668710fb6a
+dark-component-residual-response-audit_v1.0.1_claim_bounded_checked(1).zip	1032745	e3bbc9f2966a78e6adcb1dcf858ed2cd401c64c71b4ad336b7d74432d4c998cb
+sn-rrf-dcrra-v301-integrated-consolidation(1).zip	12301999	e99506d6ccdb7e996ee31cc54ad0c9878d889bc32950bd914f7bde1ab911c688

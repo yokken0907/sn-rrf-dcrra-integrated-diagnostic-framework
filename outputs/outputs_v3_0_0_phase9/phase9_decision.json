@@ -1,0 +1,44 @@
+{
+  "phase": "v3.0.0 Phase 9 Failure-Boundary Ledger",
+  "status": "PASS-PHASE9-FAILURE-BOUNDARY-LEDGER-COMPILE",
+  "interpretation": "FAILURE-BOUNDARY-LEDGER-LOCKED-WITH-CLAIM-BOUNDARY",
+  "feature_rows": 143,
+  "source_phases_included": [
+    "Phase 0-3",
+    "Phase 4AB",
+    "Phase 5",
+    "Phase 5R",
+    "Phase 6",
+    "Phase 7",
+    "Phase 8",
+    "Phase 8R",
+    "External HOLD branch"
+  ],
+  "failure_boundary_row_count": 14,
+  "critical_boundary_count": 3,
+  "high_boundary_count": 6,
+  "fail_or_null_boundary_count": 2,
+  "severity_counts": {
+    "HIGH": 6,
+    "CRITICAL": 3,
+    "LOW": 3,
+    "MEDIUM": 2
+  },
+  "status_counts": {
+    "CAUTION": 7,
+    "FAIL_OR_NULL_LOCKED": 2,
+    "HOLD": 1,
+    "INFORMATIVE": 1,
+    "SUPPORTED_BOUNDARY": 1,
+    "SUPPORTED_WITH_CAUTION": 1,
+    "CARRIED_FORWARD": 1
+  },
+  "phase8_status": "FAIL_OR_NULL",
+  "phase8r_status": "FAIL_OR_NULL",
+  "phase8r_interpretation": "SEPARABILITY-LIMITATION-PERSISTS",
+  "external_validation": "HOLD_NON_SPARC_COMPONENT_CURVE_TABLE_NOT_AVAILABLE",
+  "public_claim_mode": "claim-bounded diagnostic framework only",
+  "safe_positive_claim": "Within the internal SPARC diagnostic protocol, SN-RRF/DCRRA provides a structured residual-regime diagnostic framework with explicit comparator, proxy, holdout, injection-recovery, and failure-boundary limitations.",
+  "locked_no_go_claim_count": 11,
+  "decision": "LOCK-PHASE9-FAILURE-BOUNDARY-LEDGER-WITH-NO-GO-CLAIMS"
+}

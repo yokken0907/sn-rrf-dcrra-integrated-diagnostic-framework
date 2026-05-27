@@ -1,0 +1,9 @@
+proxy,valid_n,bin_count,class_count,cramers_v_class_association,permutation_p_value,association_flag,moderate_association_flag
+n_points,143,3,7,0.39654525473290136,0.001,1,1
+outer_baryon_fraction_proxy,143,3,7,0.3773239713351305,0.001,1,1
+gas_fraction_proxy,143,3,7,0.3686204724980125,0.001,1,1
+best_n,143,3,7,0.36198938064703134,0.001,1,1
+rrf_rc_over_rlast,143,3,7,0.2981933723939605,0.008,1,1
+rrf_A_over_vouter2,143,3,7,0.26828215370275016,0.044,1,1
+v_max_kms,143,3,7,0.2607735032520444,0.075,0,1
+v_outer_kms,143,3,7,0.2592621950148625,0.075,0,1

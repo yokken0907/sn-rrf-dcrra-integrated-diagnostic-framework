@@ -1,0 +1,35 @@
+{
+  "stage": "STAGE28-KERNEL-FAMILY-PROFILE-AUDIT",
+  "best_neighbor_table_summary": {
+    "valid_population_count": 143,
+    "best_neighbor_counts": {
+      "saturating_n2": 67,
+      "saturating_n4": 26,
+      "saturating_n1": 16,
+      "saturating_n8": 12,
+      "arctan_saturating": 10,
+      "exp_saturating": 8,
+      "saturating_n6": 4
+    },
+    "median_delta_aic_rrf_minus_best_neighbor_null": 4.082307127320703,
+    "rrf_beats_best_neighbor_null_fraction": 0.1258741258741259
+  },
+  "full_kernel_table_summary": {
+    "available": true,
+    "kernel_count_profiled": 7,
+    "best_neighbor_by_median_delta": "saturating_n8",
+    "best_neighbor_by_median_delta_value": -19.086300783973343,
+    "locked_kernel": "locked_rrf_nfixed"
+  },
+  "decision": "AUTHORIZE-STAGE29-SN-RRF-KERNEL-FAMILY-SYNTHESIS",
+  "claim_boundary": [
+    "No dark-matter exclusion claim.",
+    "No Lambda-CDM replacement claim.",
+    "No MOND/RAR defeat claim.",
+    "No Bullet-Cluster explanation claim.",
+    "No physical proof of a TVC mechanism.",
+    "No Hubble-tension solution claim.",
+    "Kernel-family profile diagnostic only.",
+    "No universal fixed-exponent law claim."
+  ]
+}

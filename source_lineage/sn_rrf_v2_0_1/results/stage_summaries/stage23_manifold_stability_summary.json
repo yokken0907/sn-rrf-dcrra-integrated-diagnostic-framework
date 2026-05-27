@@ -1,0 +1,126 @@
+{
+  "stage": "STAGE23-MANIFOLD-STABILITY-AUDIT",
+  "valid_population_count": 143,
+  "class_counts": {
+    "ROBUST-DIAGNOSTIC-CANDIDATE": 77,
+    "WEAK-OR-REGIME-DEPENDENT-SIGNAL": 25,
+    "NUISANCE-SENSITIVE-DIAGNOSTIC-SIGNAL": 18,
+    "BARYONIC-ONLY-IMPROVEMENT-NFW-DOMINANT": 16,
+    "CORE-PATHOLOGY-ARCHIVE": 7
+  },
+  "seed": 20260516,
+  "bootstrap_requested": 2000,
+  "permutation_requested": 2000,
+  "fixed_robust_manifold": {
+    "center_log10_s_c": -0.5370541194479002,
+    "center_log10_lambda": -0.11525640540278227,
+    "scale_log10_s_c": 0.305982304630787,
+    "scale_log10_lambda": 0.07648875835066102,
+    "q90_threshold": 2.184279411265519
+  },
+  "observed": {
+    "nonpath_pathology_moat_false_positive_rate": 0.0,
+    "pathology_moat_hit_rate": 0.8571428571428571,
+    "nonpath_q90_manifold_inside_fraction": 0.8602941176470589,
+    "pathology_q90_manifold_exclusion_fraction": 0.8571428571428571,
+    "pathology_minus_nonpath_median_distance_separation": 18.45015479609783,
+    "permutation_p_one_sided_more_separated": 0.0004997501249375312
+  },
+  "bootstrap_summary": {
+    "robust_inside_fraction": {
+      "mean": 0.8869675324675325,
+      "median": 0.8961038961038961,
+      "q05": 0.8181818181818182,
+      "q10": 0.8311688311688312,
+      "q90": 0.935064935064935,
+      "q95": 0.948051948051948
+    },
+    "nonpath_inside_fraction": {
+      "mean": 0.8509742647058824,
+      "median": 0.8529411764705882,
+      "q05": 0.7867647058823529,
+      "q10": 0.8014705882352942,
+      "q90": 0.8970588235294118,
+      "q95": 0.9044117647058824
+    },
+    "pathology_inside_fraction": {
+      "mean": 0.1428571428571428,
+      "median": 0.14285714285714285,
+      "q05": 0.14285714285714285,
+      "q10": 0.14285714285714285,
+      "q90": 0.14285714285714285,
+      "q95": 0.14285714285714285
+    },
+    "pathology_exclusion_fraction": {
+      "mean": 0.8571428571428571,
+      "median": 0.8571428571428571,
+      "q05": 0.8571428571428571,
+      "q10": 0.8571428571428571,
+      "q90": 0.8571428571428571,
+      "q95": 0.8571428571428571
+    },
+    "q90_threshold": {
+      "mean": 2.3975623133097232,
+      "median": 2.3713536298320195,
+      "q05": 1.9288477563239605,
+      "q10": 2.0191869182003304,
+      "q90": 2.815877678975839,
+      "q95": 2.9938865344161782
+    },
+    "center_log10_s_c": {
+      "mean": -0.5424839587542274,
+      "median": -0.5370541194479002,
+      "q05": -0.6297464136456495,
+      "q10": -0.6158089438839434,
+      "q90": -0.47793799273884097,
+      "q95": -0.4758334255992578
+    },
+    "center_log10_lambda": {
+      "mean": -0.11372287124627244,
+      "median": -0.11525640540278227,
+      "q05": -0.13151439497264053,
+      "q10": -0.127330367155905,
+      "q90": -0.10031171655800158,
+      "q95": -0.09915663876362948
+    },
+    "scale_log10_s_c": {
+      "mean": 0.2966517540632936,
+      "median": 0.2946890764998631,
+      "q05": 0.23215430037977391,
+      "q10": 0.2446674246065635,
+      "q90": 0.35020114213890774,
+      "q95": 0.36830509011768287
+    },
+    "scale_log10_lambda": {
+      "mean": 0.07146662399827024,
+      "median": 0.07158488633070949,
+      "q05": 0.05575451260676344,
+      "q10": 0.05888872707158722,
+      "q90": 0.08458181031263337,
+      "q95": 0.09082730866634128
+    }
+  },
+  "guard_passes": {
+    "valid_population_count_ge_100": 1,
+    "bootstrap_robust_inside_median_ge_0_80": 1,
+    "bootstrap_nonpath_inside_median_ge_0_75": 1,
+    "bootstrap_pathology_exclusion_median_ge_0_70": 1,
+    "pathology_moat_hit_ge_0_70": 1,
+    "nonpath_pathology_moat_false_positive_le_0_05": 1,
+    "permutation_pathology_distance_separation_p_le_0_01": 1
+  },
+  "guard_pass_count": 7,
+  "guard_count": 7,
+  "decision": "AUTHORIZE-STAGE24-SN-RRF-STABILITY-SYNTHESIS",
+  "claim_boundary": [
+    "No dark-matter exclusion claim.",
+    "No Lambda-CDM replacement claim.",
+    "No MOND/RAR defeat claim.",
+    "No Bullet-Cluster explanation claim.",
+    "No physical proof of a TVC mechanism.",
+    "No Hubble-tension solution claim.",
+    "SN-RRF manifold diagnostic only.",
+    "No universal per-galaxy normal-band claim.",
+    "No physical-promotion claim from bootstrap or permutation stability."
+  ]
+}

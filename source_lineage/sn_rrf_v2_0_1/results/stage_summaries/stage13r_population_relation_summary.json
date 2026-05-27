@@ -1,0 +1,98 @@
+{
+  "stage": "STAGE13R-ROTMOD-PROXY-REPAIR-AUDIT",
+  "decision": "AUTHORIZE-STAGE14-RAR-RESIDUAL-AUDIT-POPULATION-RELATION-PRESENT",
+  "summary": {
+    "valid_population_count": 143,
+    "rotmod_proxy_coverage": 1.0,
+    "resolved_rotmod_dir": "/home/kei/a10_projects/A10_TVC_Galaxy_Rotation_Curve_Residual_Diagnostic/data/Rotmod_LTG",
+    "regime": "broad_free",
+    "median_delta_aic_tvc_minus_baryonic_fit": -475.79138460945904,
+    "median_delta_aic_tvc_minus_nfw_like": -2.1066193061649656,
+    "strong_improvement_vs_baryonic_fit_fraction": 0.965034965034965,
+    "tvc_boundary_rate": 0.2517482517482518,
+    "tvc_core_boundary_rate": 0.03496503496503497,
+    "tvc_nuisance_boundary_rate": 0.21678321678321677,
+    "max_tvc_core_boundary_rate": 0.03496503496503497,
+    "broad_median_delta_aic_tvc_minus_baryonic_fit": -475.79138460945904,
+    "broad_tvc_nuisance_boundary_rate": 0.21678321678321677,
+    "best_interpretable_relation": "rrf_log10_A vs v_max_kms",
+    "best_interpretable_abs_spearman_rho": 0.8731737447209632,
+    "best_interpretable_spearman_rho": 0.8731737447209632,
+    "best_interpretable_permutation_pvalue": 0.001996007984031936
+  },
+  "class_summary": [
+    {
+      "stage8_class": "BARYONIC-ONLY-IMPROVEMENT-NFW-DOMINANT",
+      "galaxy_count": 16,
+      "median_log10_A": 3.900807999781787,
+      "median_log10_rc": 0.6679996499669142,
+      "median_rc_over_rlast": 0.3165017656528239,
+      "median_A_over_vouter2": 0.6764423842987746,
+      "median_dAIC_tvc_minus_baryonic": -1928.3436241305983,
+      "median_dAIC_tvc_minus_nfw": 22.447977703291183,
+      "boundary_rate": 0.5625,
+      "core_boundary_rate": 0.0,
+      "nuisance_boundary_rate": 0.5625
+    },
+    {
+      "stage8_class": "CORE-PATHOLOGY-ARCHIVE",
+      "galaxy_count": 7,
+      "median_log10_A": 5.999998553411271,
+      "median_log10_rc": 1.4149265993431477,
+      "median_rc_over_rlast": 3.3213889274289667,
+      "median_A_over_vouter2": 23.11390532325857,
+      "median_dAIC_tvc_minus_baryonic": -43.2926497374833,
+      "median_dAIC_tvc_minus_nfw": 0.0054670359712201,
+      "boundary_rate": 0.8571428571428571,
+      "core_boundary_rate": 0.7142857142857143,
+      "nuisance_boundary_rate": 0.14285714285714285
+    },
+    {
+      "stage8_class": "NUISANCE-SENSITIVE-DIAGNOSTIC-SIGNAL",
+      "galaxy_count": 18,
+      "median_log10_A": 3.690795362868605,
+      "median_log10_rc": 0.37389490516276447,
+      "median_rc_over_rlast": 0.2626052193897692,
+      "median_A_over_vouter2": 0.7735879166760831,
+      "median_dAIC_tvc_minus_baryonic": -623.4437533719408,
+      "median_dAIC_tvc_minus_nfw": -0.8916318003716839,
+      "boundary_rate": 1.0,
+      "core_boundary_rate": 0.0,
+      "nuisance_boundary_rate": 1.0
+    },
+    {
+      "stage8_class": "ROBUST-DIAGNOSTIC-CANDIDATE",
+      "galaxy_count": 77,
+      "median_log10_A": 3.9594030808016702,
+      "median_log10_rc": 0.5829446047800122,
+      "median_rc_over_rlast": 0.29036607932913744,
+      "median_A_over_vouter2": 0.7669085764891291,
+      "median_dAIC_tvc_minus_baryonic": -233.63502779280492,
+      "median_dAIC_tvc_minus_nfw": -8.782030189551147,
+      "boundary_rate": 0.0,
+      "core_boundary_rate": 0.0,
+      "nuisance_boundary_rate": 0.0
+    },
+    {
+      "stage8_class": "WEAK-OR-REGIME-DEPENDENT-SIGNAL",
+      "galaxy_count": 25,
+      "median_log10_A": 4.194822936499533,
+      "median_log10_rc": 0.7517637599423093,
+      "median_rc_over_rlast": 0.40819384486128796,
+      "median_A_over_vouter2": 0.6707760531594743,
+      "median_dAIC_tvc_minus_baryonic": -1156.2407944498095,
+      "median_dAIC_tvc_minus_nfw": 0.9256765697956428,
+      "boundary_rate": 0.12,
+      "core_boundary_rate": 0.0,
+      "nuisance_boundary_rate": 0.12
+    }
+  ],
+  "claim_boundary": [
+    "No dark-matter exclusion claim.",
+    "No Lambda-CDM replacement claim.",
+    "No MOND/RAR defeat claim.",
+    "No Bullet-Cluster explanation claim.",
+    "No physical proof of a TVC mechanism.",
+    "Population relation audit only."
+  ]
+}

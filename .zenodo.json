@@ -1,0 +1,22 @@
+{
+  "title": "SN-RRF-DCRRA v3.0.1 Complete GitHub Repository: Integrated Consolidation of SPARC Residual-Regime Diagnostics",
+  "upload_type": "software",
+  "publication_date": "2026-05-27",
+  "creators": [
+    {
+      "name": "Yoshimura, Keiji",
+      "affiliation": "Independent Researcher"
+    }
+  ],
+  "version": "3.0.1-integrated-complete-repository",
+  "license": "other-open",
+  "description": "Complete GitHub-ready claim-bounded repository package integrating SN-RRF v2.0.1, DCRRA v1.0.1, and the v3.0.1 integrated consolidation manuscript and Phase 0-9 internal deepening outputs. Non-SPARC external residual-level validation remains on data-availability HOLD.",
+  "keywords": [
+    "SPARC",
+    "galaxy rotation curves",
+    "residual diagnostics",
+    "claim boundary",
+    "SN-RRF",
+    "DCRRA"
+  ]
+}

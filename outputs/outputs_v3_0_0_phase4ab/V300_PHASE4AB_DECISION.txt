@@ -1,0 +1,5 @@
+PASS-PHASE4AB-FUNCTIONAL-RESIDUAL-SHAPE-AUDIT-RUN
+feature_rows=143
+matched_rotmod_count=143
+missing_rotmod_count=0
+external_validation=HOLD

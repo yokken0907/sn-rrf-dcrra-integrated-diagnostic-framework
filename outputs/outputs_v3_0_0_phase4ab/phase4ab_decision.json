@@ -1,0 +1,32 @@
+{
+  "version": "3.0.0-phase4ab-functional-residual-shape-audit-runner",
+  "status": "PASS-PHASE4AB-FUNCTIONAL-RESIDUAL-SHAPE-AUDIT-RUN",
+  "feature_table": "/home/kei/a10_projects/a10-galaxy-residual-response-diagnostics/v3_0_0_phase4ab_functional_residual_shape_audit_replay/outputs_v3_0_0/residual_response_feature_table.csv",
+  "feature_rows": 143,
+  "phase4a_status": "PASS-PHASE4A-REDUCED-RESIDUAL-SHAPE-PROXY-AUDIT-RUN",
+  "phase4b_status": "PASS-PHASE4B-SPARC-ROTMOD-FUNCTIONAL-RESIDUAL-SHAPE-AUDIT-RUN",
+  "rotmod_dir": "/home/kei/a10_projects/a10-galaxy-residual-response-diagnostics/data_external/sparc_public_rotmod/Rotmod_LTG",
+  "rotmod_file_count": 175,
+  "matched_rotmod_count": 143,
+  "missing_rotmod_count": 0,
+  "phase4a_adjusted_rand_index": 0.08097298952828384,
+  "phase4b_adjusted_rand_index": 0.09719067206410471,
+  "phase4a_pca_explained_variance_ratio": [
+    0.2725559271327282,
+    0.16297501820453159
+  ],
+  "phase4b_pca_explained_variance_ratio": [
+    0.8275740645438672,
+    0.12010211973249599
+  ],
+  "external_validation_status": "HOLD_NON_SPARC_COMPONENT_CURVE_TABLE_NOT_AVAILABLE",
+  "forbidden_claims": [
+    "dark_matter_exclusion",
+    "lcdm_replacement",
+    "mond_rar_falsification",
+    "nfw_falsification",
+    "new_physics_discovery",
+    "non_sparc_external_validation_claim"
+  ],
+  "claim_boundary": "Internal SPARC residual-shape diagnostic audit only. No non-SPARC external validation claim."
+}

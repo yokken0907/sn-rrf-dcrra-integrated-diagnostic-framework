@@ -1,0 +1,8 @@
+PASS-PHASE7-FROZEN-HOLDOUT-ROBUSTNESS-AUDIT-RUN
+interpretation: FROZEN-HOLDOUT-ROBUSTNESS-SUPPORTED-WITH-BOUNDARY-CAUTIONS
+feature_rows: 143
+zone_count: 7
+evaluated_holdout_count: 32
+random_stable_fraction: 1.000000
+stable_holdout_fraction: 1.000000
+external_validation: HOLD

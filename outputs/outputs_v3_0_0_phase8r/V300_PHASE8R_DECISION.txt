@@ -1,0 +1,16 @@
+LOCK-PHASE8R-INJECTION-RECOVERY-SEPARABILITY-AUDIT-FAIL_OR_NULL
+interpretation: SEPARABILITY-LIMITATION-PERSISTS
+synthetic_case_count: 2574
+phase8_overall_recovery_rate: 0.5664335664335665
+phase8_balanced_accuracy: 0.5664335664335663
+best_operational_variant: reported_only_noise_LOW
+best_operational_variant_balanced_accuracy: 0.7762237762237763
+best_full_coverage_operational_variant: phase8_reported_predicted_type
+best_full_coverage_operational_balanced_accuracy: 0.5664335664335663
+physical_like_mean_recall: 0.43298368298368295
+pathology_nuisance_mean_recall: 0.8333333333333333
+top_offdiagonal_pair: RAR_LIKE->HALO_LIKE
+top_offdiagonal_fraction: 0.30303030303030304
+guard_pass_count: 2
+guard_count: 7
+external_validation: HOLD_NON_SPARC_COMPONENT_CURVE_TABLE_NOT_AVAILABLE

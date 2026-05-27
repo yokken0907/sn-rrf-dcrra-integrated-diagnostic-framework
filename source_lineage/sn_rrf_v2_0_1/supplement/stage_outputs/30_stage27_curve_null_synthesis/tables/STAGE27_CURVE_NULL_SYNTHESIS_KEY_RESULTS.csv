@@ -1,0 +1,10 @@
+item,value
+Valid population count,143
+Stage26 guard pass count,5/5
+Median Delta AIC: RRF - best destructive null,-85.0215
+RRF beats best destructive null fraction,0.916084
+RRF strongly beats destructive null fraction,0.839161
+Robust-class RRF beats destructive null fraction,0.935065
+Median Delta AIC: RRF - best neighbor monotone kernel,4.08231
+RRF beats best neighbor monotone kernel fraction,0.125874
+Locked interpretation,Radial-response family supported; fixed exponent not unique.

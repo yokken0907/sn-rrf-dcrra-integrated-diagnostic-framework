@@ -1,0 +1,21 @@
+{
+  "version": "3.0.0-phase5r-overflex-null-fairness",
+  "status": "PASS-PHASE5R-OVERFLEX-NULL-FAIRNESS-AUDIT-RUN",
+  "interpretation": "OVERFLEX-DOMINANCE-SENSITIVE-TO-COMPLEXITY-PENALTY",
+  "feature_rows": 143,
+  "existing_comparator_score_rows": 1287,
+  "degree_sweep_score_rows": 858,
+  "phase5_prior_overflex_winner_fraction": 0.8601398601398601,
+  "existing_set_overflex_fractions": {
+    "aic": 0.8601398601398601,
+    "aicc": 0.46853146853146854,
+    "bic": 0.6783216783216783
+  },
+  "poly_degree_sweep_poly5_fractions": {
+    "aic": 0.14685314685314685,
+    "aicc": 0.14685314685314685,
+    "bic": 0.16083916083916083
+  },
+  "external_validation_status": "HOLD_NON_SPARC_COMPONENT_CURVE_TABLE_NOT_AVAILABLE",
+  "claim_boundary": "Internal SPARC overflex-null fairness and complexity-penalty audit only; no physical model-selection claim."
+}

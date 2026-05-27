@@ -1,0 +1,53 @@
+{
+  "stage": "DCRRA4-NFW-RAR-SN-RRF-TRIANGULAR-COMPARATOR",
+  "decision": "AUTHORIZE-DCRRA5-ENVIRONMENT-MORPHOLOGY-PROXY-AUDIT",
+  "timestamp_utc": "2026-05-16T10:43:58Z",
+  "input_population_count": 143,
+  "interpretable_non_pathology_non_nuisance_count": 101,
+  "pathology_or_nuisance_pass_through_count": 42,
+  "class_counts": {
+    "SN_RRF_FAMILY_TRIANGLE_DOMINANT": 54,
+    "NUISANCE_SENSITIVE": 30,
+    "SN_RRF_RAR_ADVANTAGE_NFW_COMPETITIVE": 23,
+    "THREE_WAY_COMPETITIVE": 16,
+    "PATHOLOGY_ARCHIVE": 12,
+    "NFW_TRIANGLE_DOMINANT": 6,
+    "UNRESOLVED_TRIANGULAR": 2
+  },
+  "interpretable_counts": {
+    "sn_family_dominant_or_rar_advantage_nfw_competitive": 77,
+    "nfw_triangle_dominant": 6,
+    "rar_triangle_dominant": 0,
+    "mixed_or_unresolved": 18
+  },
+  "main_medians": {
+    "median_est_family_delta_aic_minus_nfw_like": -11.84606598940119,
+    "median_est_family_delta_aic_minus_rar_like": -48.229787667451156,
+    "median_nfw_minus_rar_aic_from_deltas": -21.897777492213763,
+    "median_best_n": 2.25
+  },
+  "guards": {
+    "valid_population_count_eq_143": 1,
+    "triangular_classes_ge_5": 1,
+    "not_single_family_monopoly_max_class_lt_75pct": 1,
+    "sn_rrf_family_signal_nonzero": 1,
+    "nfw_related_signal_nonzero": 1,
+    "rar_related_signal_preserved_or_flagged": 1,
+    "pathology_or_nuisance_exclusion_nonzero": 1
+  },
+  "guard_pass_count": 7,
+  "guard_count": 7,
+  "interpretation": "Dark-component-like rotation-curve residuals are not monolithic under the triangular comparator. SN-RRF-family-like, NFW-like, RAR-related, mixed, nuisance, and pathology regimes remain separated. Diagnostic classification only.",
+  "next_stage": "DCRRA5-ENVIRONMENT-MORPHOLOGY-PROXY-AUDIT",
+  "claim_boundary": [
+    "No dark-matter exclusion claim.",
+    "No Lambda-CDM replacement claim.",
+    "No MOND/RAR falsification claim.",
+    "No NFW-halo falsification claim.",
+    "No Bullet-Cluster explanation claim.",
+    "No particle-identity claim.",
+    "No Hubble-tension solution claim.",
+    "No SN-RRF as physical dark-matter substitute claim.",
+    "Triangular comparator margins are diagnostic; estimated continuum-family margins are not physical likelihood rankings."
+  ]
+}

@@ -1,0 +1,9 @@
+proxy,valid_n,bin_count,class_count,cramers_v
+v_outer_kms,143,3,7,0.2592621950148625
+v_max_kms,143,3,7,0.2607735032520444
+gas_fraction_proxy,143,3,7,0.3686204724980125
+outer_baryon_fraction_proxy,143,3,7,0.37732397133513046
+rrf_rc_over_rlast,143,3,7,0.2981933723939605
+rrf_A_over_vouter2,143,3,7,0.26828215370275016
+best_n,143,3,7,0.3619893806470313
+n_points,143,3,7,0.39654525473290136

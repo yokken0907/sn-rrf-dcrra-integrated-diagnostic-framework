@@ -1,0 +1,11 @@
+{
+  "integrated_sources": [
+    "SN-RRF v2.0.1 selected tables",
+    "DCRRA v1.0.1 selected tables",
+    "A10 Core v0.2.1 directive"
+  ],
+  "stage": "Phase 0-3",
+  "source_galaxy_count": 143,
+  "claim_boundary_locked": true,
+  "external_validation_hold": true
+}

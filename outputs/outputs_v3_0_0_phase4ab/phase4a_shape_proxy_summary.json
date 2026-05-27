@@ -1,0 +1,43 @@
+{
+  "phase": "4A",
+  "status": "PASS-PHASE4A-REDUCED-RESIDUAL-SHAPE-PROXY-AUDIT-RUN",
+  "feature_rows": 143,
+  "proxy_feature_count": 24,
+  "proxy_features": [
+    "best_n",
+    "rrf_rc_over_rlast",
+    "rrf_A_over_vouter2",
+    "v_outer_kms",
+    "v_max_kms",
+    "gas_fraction_proxy",
+    "outer_baryon_fraction_proxy",
+    "n_points",
+    "estimated_family_delta_aic_minus_nfw_like",
+    "estimated_family_delta_aic_minus_rar_like",
+    "rrf_aic_v2",
+    "curve_level_rrf_A_kms2",
+    "curve_level_rrf_rc_kpc",
+    "delta_aic_rrf_minus_best_destructive_null",
+    "delta_aic_rrf_minus_best_neighbor_null",
+    "delta_aic_locked_minus_best_continuum",
+    "grid_count_within_2_of_best",
+    "grid_count_within_10_of_best",
+    "response_family_strength_axis",
+    "halo_competitiveness_axis",
+    "rar_competitiveness_axis",
+    "nuisance_or_pathology_flag",
+    "overflex_neighbor_risk_flag",
+    "destructive_null_pass_flag"
+  ],
+  "pca_explained_variance_ratio": [
+    0.2725559271327282,
+    0.16297501820453159
+  ],
+  "pc1_zone_eta_squared": 0.12380184211459727,
+  "pc2_zone_eta_squared": 0.37232303423783286,
+  "phase4a_kmeans_cluster_count": 7,
+  "phase4a_adjusted_rand_index": 0.08097298952828384,
+  "phase4a_adjusted_mutual_info": 0.16766613042435352,
+  "phase4a_normalized_mutual_info": 0.23109494466978217,
+  "phase4a_silhouette_score": 0.3751045253045844
+}

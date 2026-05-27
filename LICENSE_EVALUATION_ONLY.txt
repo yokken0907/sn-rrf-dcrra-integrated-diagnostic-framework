@@ -1,0 +1,5 @@
+# Evaluation-Only Public License Notice
+
+This package is shared for evaluation, review, reproducibility inspection, and claim-boundary discussion. Reuse, redistribution, derivative work, or commercial use may require permission from the author unless a separate license file or repository notice grants additional rights.
+
+No warranty is provided. The repository does not provide operational, safety, medical, legal, financial, or production-ready guidance.

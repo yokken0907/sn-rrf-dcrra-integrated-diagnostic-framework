@@ -1,0 +1,23 @@
+{
+  "status": "PASS-PHASE7-FROZEN-HOLDOUT-ROBUSTNESS-AUDIT-RUN",
+  "phase": "Phase 7",
+  "feature_rows": 143,
+  "zone_count": 7,
+  "holdout_count_total_including_baseline": 33,
+  "holdout_count_evaluated_excluding_baseline": 32,
+  "random_holdout_count": 10,
+  "zone_leaveout_count": 7,
+  "stable_holdout_fraction": 1.0,
+  "mixed_holdout_fraction": 0.0,
+  "fragile_holdout_fraction": 0.0,
+  "random_stable_fraction": 1.0,
+  "zone_leaveout_stable_fraction": 1.0,
+  "median_zone_js_divergence_evaluated": 0.005349510082639412,
+  "max_zone_js_divergence_evaluated": 0.1530504980516668,
+  "baseline_response_family_zone_fraction": 0.5384615384615384,
+  "baseline_existing_aicc_overflex_fraction": 0.46853146853146854,
+  "baseline_high_failure_score_ge4_fraction": 0.1888111888111888,
+  "interpretation": "FROZEN-HOLDOUT-ROBUSTNESS-SUPPORTED-WITH-BOUNDARY-CAUTIONS",
+  "external_validation_status": "HOLD_NON_SPARC_COMPONENT_CURVE_TABLE_NOT_AVAILABLE",
+  "claim_boundary": "Internal SPARC frozen holdout robustness audit only; not non-SPARC external residual-level validation and not physical model selection."
+}

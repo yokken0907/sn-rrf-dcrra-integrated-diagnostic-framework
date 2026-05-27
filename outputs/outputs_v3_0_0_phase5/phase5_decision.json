@@ -1,0 +1,27 @@
+{
+  "version": "3.0.0-phase5-expanded-comparator-audit",
+  "status": "PASS-PHASE5-EXPANDED-COMPARATOR-AUDIT-RUN",
+  "interpretation": "OVERFLEX-NULL-DOMINATED-CAUTION",
+  "feature_rows": 143,
+  "rotmod_dir": "/home/kei/a10_projects/a10-galaxy-residual-response-diagnostics/data_external/sparc_public_rotmod/Rotmod_LTG",
+  "matched_rotmod_count": 143,
+  "missing_rotmod_count": 0,
+  "missing_rotmod_galaxies": [],
+  "comparator_count": 9,
+  "score_rows": 1287,
+  "overflex_winner_fraction": 0.8601398601398601,
+  "sn_rrf_family_winner_fraction": 0.06293706293706294,
+  "halo_or_cored_comparator_winner_fraction": 0.02097902097902098,
+  "mean_within_2_comparator_count": 1.2097902097902098,
+  "external_validation_status": "HOLD_NON_SPARC_COMPONENT_CURVE_TABLE_NOT_AVAILABLE",
+  "claim_boundary": "Internal SPARC expanded diagnostic comparator audit only. Comparator wins are not physical model-selection claims.",
+  "forbidden_claims": [
+    "dark_matter_exclusion",
+    "lcdm_replacement",
+    "mond_rar_falsification",
+    "nfw_falsification",
+    "new_physics_discovery",
+    "non_sparc_external_validation_claim",
+    "physical_model_selection_claim"
+  ]
+}

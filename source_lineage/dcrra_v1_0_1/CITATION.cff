@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the archived repository release and the integrated manuscript. Zenodo identifiers for this project are repository-archive DOIs, not standalone peer-reviewed article DOIs."
+title: "Claim-Bounded Diagnostics for Dark-Component-like SPARC Rotation-Curve Residuals: Residual-Regime Mapping, Comparator Audits, and Null-Control Checks"
+version: "v1.0.1-claim-bounded-reader-guidance"
+date-released: "2026-05-25"
+authors:
+  - family-names: Yoshimura
+    given-names: Keiji
+    affiliation: Independent Researcher
+url: "https://github.com/yokken0907/dark-component-residual-response-audit"
+repository-code: "https://github.com/yokken0907/dark-component-residual-response-audit"
+keywords:
+  - galaxy rotation curves
+  - SPARC
+  - dark-component-like residuals
+  - residual-regime mapping
+  - DCRRA
+  - diagnostic audit
+  - null controls
+  - claim boundary

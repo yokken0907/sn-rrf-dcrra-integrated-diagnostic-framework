@@ -1,0 +1,32 @@
+{
+  "stage": "STAGE20-DIMENSIONLESS-KERNEL-AUDIT",
+  "valid_population_count": 143,
+  "normal_band_definition": {
+    "s_c_range": [
+      0.2,
+      0.5
+    ],
+    "lambda_range": [
+      0.4,
+      1.2
+    ]
+  },
+  "pathology_band_definition": {
+    "s_c_gt": 1.0,
+    "lambda_gt": 5.0
+  },
+  "all_normal_band_fraction": 0.48951048951048953,
+  "all_pathology_band_fraction": 0.04195804195804196,
+  "robust_in_normal_band_fraction": 0.4805194805194805,
+  "pathology_class_in_pathology_band_fraction": 0.8571428571428571,
+  "decision": "WEAK-HOLD-STAGE20-DIMENSIONLESS-BAND-INCONCLUSIVE",
+  "claim_boundary": [
+    "No dark-matter exclusion claim.",
+    "No Lambda-CDM replacement claim.",
+    "No MOND/RAR defeat claim.",
+    "No Bullet-Cluster explanation claim.",
+    "No physical proof of a TVC mechanism.",
+    "No Hubble-tension solution claim.",
+    "Dimensionless residual-response diagnostic only."
+  ]
+}

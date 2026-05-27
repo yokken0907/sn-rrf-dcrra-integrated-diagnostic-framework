@@ -1,0 +1,39 @@
+{
+  "stage": "DCRRA6-DESTRUCTIVE-CONSTRUCTIVE-NULL-AUDIT",
+  "decision": "AUTHORIZE-DCRRA7-DARK-COMPONENT-RESIDUAL-MAP",
+  "timestamp_utc": "2026-05-16T10:59:25Z",
+  "input_population_count": 143,
+  "class_count": 7,
+  "proxy_count": 8,
+  "n_permutation": 1000,
+  "observed_mean_cramers_v_across_proxies": 0.32387378794708666,
+  "observed_max_cramers_v_across_proxies": 0.39654525473290136,
+  "destructive_null_reject_count_p_le_0_05": 4,
+  "constructive_signal_count_p_le_0_05": 2,
+  "proxy_only_reconstruction_accuracy": 0.3146853146853147,
+  "proxy_only_reconstruction_balanced_accuracy": 0.3287353347135956,
+  "guards": {
+    "valid_population_count_eq_143": 1,
+    "destructive_label_shuffle_mean_rejected": 1,
+    "destructive_proxy_shuffle_mean_rejected": 1,
+    "constructive_accuracy_above_shuffle": 1,
+    "constructive_balanced_accuracy_above_shuffle": 1,
+    "class_count_ge_5": 1,
+    "claim_boundary_preserved": 1
+  },
+  "guard_pass_count": 7,
+  "guard_count": 7,
+  "interpretation": "DCRRA4 triangular residual-regime classes retain proxy-coherent structure under destructive label/proxy shuffle nulls, and a proxy-only constructive reconstruction recovers nontrivial class information. Diagnostic classification only.",
+  "next_stage": "DCRRA7-DARK-COMPONENT-RESIDUAL-MAP",
+  "claim_boundary": [
+    "No dark-matter exclusion claim.",
+    "No Lambda-CDM replacement claim.",
+    "No MOND/RAR falsification claim.",
+    "No NFW-halo falsification claim.",
+    "No Bullet-Cluster explanation claim.",
+    "No particle-identity claim.",
+    "No Hubble-tension solution claim.",
+    "No SN-RRF as physical dark-matter substitute claim.",
+    "Destructive/constructive null controls are diagnostic only and not causal physical classifications."
+  ]
+}

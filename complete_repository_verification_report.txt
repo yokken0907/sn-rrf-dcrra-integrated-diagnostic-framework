@@ -1,0 +1,30 @@
+$ python3 tools/verify_manifest_excluding_self.py
+PASS-MANIFEST-VERIFICATION
+verified_files=348
+
+
+$ python3 scripts/verify_phase10_package.py
+PASS-PHASE10-INTEGRATED-CONSOLIDATION-PACKAGE-VERIFICATION
+feature_rows=143
+zone_count=7
+phase9_failure_boundary_rows=14
+phase8_status=FAIL_OR_NULL
+phase8r_status=FAIL_OR_NULL
+external_validation=HOLD_NON_SPARC_COMPONENT_CURVE_TABLE_NOT_AVAILABLE
+
+
+$ python3 scripts/verify_complete_repository_package.py
+PASS-COMPLETE-REPOSITORY-PACKAGE-VERIFICATION
+feature_rows=143
+zone_count=7
+source_lineage=SN-RRF-v2.0.1 + DCRRA-v1.0.1
+phase9_failure_boundary_rows=14
+phase8_status=FAIL_OR_NULL
+phase8r_status=FAIL_OR_NULL
+external_validation=HOLD_NON_SPARC_COMPONENT_CURVE_TABLE_NOT_AVAILABLE
+zenodo_json_has_doi_field=False
+
+
+FINAL MANIFEST VERIFY
+PASS-MANIFEST-VERIFICATION
+verified_files=351

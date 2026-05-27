@@ -1,0 +1,32 @@
+{
+  "stage": "DCRRA9-MANUSCRIPT-AND-REPOSITORY-PACKAGE",
+  "decision": "LOCK-DCRRA9-MANUSCRIPT-AND-REPOSITORY-PACKAGE-READY",
+  "timestamp_utc": "2026-05-16T11:13:57.994361+00:00",
+  "valid_population_count": 143,
+  "map_zone_count": 7,
+  "response_family_zone_count": 77,
+  "nfw_comparator_zone_count": 6,
+  "mixed_zone_count": 16,
+  "pathology_or_nuisance_pass_through_count": 42,
+  "unresolved_zone_count": 2,
+  "guard_pass_count": 9,
+  "guard_count": 9,
+  "claim_boundary": [
+    "No dark-matter exclusion claim.",
+    "No Lambda-CDM replacement claim.",
+    "No MOND/RAR falsification claim.",
+    "No NFW-halo falsification claim.",
+    "No Bullet-Cluster explanation claim.",
+    "No particle-identity claim.",
+    "No Hubble-tension solution claim.",
+    "No SN-RRF as physical dark-matter substitute claim.",
+    "Residual maps are diagnostic regime maps, not causal physical classifications."
+  ],
+  "deliverables": [
+    "paper PDF",
+    "paper TeX",
+    "GitHub repository package",
+    "release assets",
+    "final deliverables bundle"
+  ]
+}

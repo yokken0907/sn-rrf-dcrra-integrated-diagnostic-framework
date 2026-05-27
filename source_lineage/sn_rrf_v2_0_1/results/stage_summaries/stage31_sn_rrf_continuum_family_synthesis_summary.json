@@ -1,0 +1,49 @@
+{
+  "stage": "STAGE31-SN-RRF-CONTINUUM-FAMILY-SYNTHESIS",
+  "decision": "LOCK-STAGE31-SN-RRF-CONTINUUM-FAMILY-SYNTHESIS-DIAGNOSTIC-ONLY",
+  "source_stage30_decision": "AUTHORIZE-STAGE31-SN-RRF-CONTINUUM-FAMILY-SYNTHESIS",
+  "valid_population_count": 143,
+  "n_grid_count": 41,
+  "n_grid_min": 0.5,
+  "n_grid_max": 12.0,
+  "locked_n": 3.258993,
+  "main_results": {
+    "best_n_median": 2.25,
+    "best_n_q25": 1.5,
+    "best_n_q75": 3.2544965,
+    "best_n_iqr": 1.7544965000000001,
+    "median_delta_aic_locked_minus_best_continuum": 6.292381145415192,
+    "locked_within_2_fraction": 0.32167832167832167,
+    "locked_within_10_fraction": 0.6363636363636364,
+    "top_best_n_counts": {
+      "1.5": 17,
+      "2.25": 16,
+      "2.5": 14,
+      "2.0": 14,
+      "12.0": 9,
+      "2.75": 9,
+      "1.25": 9,
+      "1.75": 7,
+      "1.0": 6,
+      "3.0": 5
+    }
+  },
+  "interpretation": {
+    "fixed_exponent_uniqueness_supported": false,
+    "continuum_family_supported": true,
+    "preferred_language": "SN-RRF is a heterogeneous scale-normalized monotone-saturating residual-response family, not a universal fixed-exponent law.",
+    "locked_n_role": "n=3.258993 remains a useful representative and historical A10/TVC-derived kernel, but not a unique physical exponent."
+  },
+  "claim_boundary": [
+    "No dark-matter exclusion claim.",
+    "No Lambda-CDM replacement claim.",
+    "No MOND/RAR defeat claim.",
+    "No Bullet-Cluster explanation claim.",
+    "No physical proof of a TVC mechanism.",
+    "No Hubble-tension solution claim.",
+    "Kernel-continuum diagnostic only.",
+    "No universal fixed-exponent law claim.",
+    "Continuum-family synthesis only.",
+    "No physical promotion from continuum profiling."
+  ]
+}

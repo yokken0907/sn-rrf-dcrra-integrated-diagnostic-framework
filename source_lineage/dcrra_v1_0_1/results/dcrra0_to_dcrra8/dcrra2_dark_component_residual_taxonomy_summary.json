@@ -1,0 +1,27 @@
+{
+  "stage": "DCRRA2-DARK-COMPONENT-RESIDUAL-TAXONOMY",
+  "decision": "LOCK-DCRRA2-PRELIMINARY-TAXONOMY-SCAFFOLD-DIAGNOSTIC-ONLY",
+  "timestamp_utc": "2026-05-16T10:37:50Z",
+  "input_population_count": 143,
+  "classified_count": 143,
+  "class_counts": {
+    "SN_RRF_FAMILY_LIKE": 36,
+    "NUISANCE_SENSITIVE": 30,
+    "UNRESOLVED_OR_WEAK": 29,
+    "MIXED_COMPETITIVE": 27,
+    "HALO_DOMINANT_LIKE": 13,
+    "PATHOLOGY_ARCHIVE": 7,
+    "RAR_ACCELERATION_LIKE": 1
+  },
+  "rules_status": "provisional diagnostic taxonomy only; not physical classification",
+  "next_stage": "DCRRA3-SPARC-RECLASSIFICATION-AUDIT",
+  "claim_boundary": [
+    "No dark-matter exclusion claim.",
+    "No Lambda-CDM replacement claim.",
+    "No MOND/RAR falsification claim.",
+    "No NFW-halo falsification claim.",
+    "No Bullet-Cluster explanation claim.",
+    "No particle-identity claim.",
+    "No Hubble-tension solution claim."
+  ]
+}

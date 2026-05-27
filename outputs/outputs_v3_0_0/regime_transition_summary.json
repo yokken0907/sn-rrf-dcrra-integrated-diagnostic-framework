@@ -1,0 +1,102 @@
+{
+  "interpretation_level": "diagnostic adjacency only; not physical evolutionary path",
+  "k_neighbors": 7,
+  "edge_count": 19,
+  "top_edges": [
+    {
+      "zone_a": "NUISANCE_SENSITIVE_ZONE",
+      "zone_b": "RESPONSE_FAMILY_DOMINANT_ZONE",
+      "directed_knn_cross_count": 148,
+      "undirected_support_score": 0.14785214785214784
+    },
+    {
+      "zone_a": "RESPONSE_FAMILY_DOMINANT_ZONE",
+      "zone_b": "RESPONSE_FAMILY_WITH_NFW_COMPETITIVE_ZONE",
+      "directed_knn_cross_count": 135,
+      "undirected_support_score": 0.13486513486513488
+    },
+    {
+      "zone_a": "MIXED_THREE_WAY_COMPETITIVE_ZONE",
+      "zone_b": "RESPONSE_FAMILY_DOMINANT_ZONE",
+      "directed_knn_cross_count": 82,
+      "undirected_support_score": 0.08191808191808192
+    },
+    {
+      "zone_a": "NUISANCE_SENSITIVE_ZONE",
+      "zone_b": "RESPONSE_FAMILY_WITH_NFW_COMPETITIVE_ZONE",
+      "directed_knn_cross_count": 56,
+      "undirected_support_score": 0.055944055944055944
+    },
+    {
+      "zone_a": "PATHOLOGY_ARCHIVE_ZONE",
+      "zone_b": "RESPONSE_FAMILY_DOMINANT_ZONE",
+      "directed_knn_cross_count": 55,
+      "undirected_support_score": 0.054945054945054944
+    },
+    {
+      "zone_a": "HALO_COMPARATOR_DOMINANT_ZONE",
+      "zone_b": "RESPONSE_FAMILY_DOMINANT_ZONE",
+      "directed_knn_cross_count": 47,
+      "undirected_support_score": 0.04695304695304695
+    },
+    {
+      "zone_a": "MIXED_THREE_WAY_COMPETITIVE_ZONE",
+      "zone_b": "RESPONSE_FAMILY_WITH_NFW_COMPETITIVE_ZONE",
+      "directed_knn_cross_count": 45,
+      "undirected_support_score": 0.04495504495504495
+    },
+    {
+      "zone_a": "MIXED_THREE_WAY_COMPETITIVE_ZONE",
+      "zone_b": "NUISANCE_SENSITIVE_ZONE",
+      "directed_knn_cross_count": 43,
+      "undirected_support_score": 0.04295704295704296
+    },
+    {
+      "zone_a": "HALO_COMPARATOR_DOMINANT_ZONE",
+      "zone_b": "RESPONSE_FAMILY_WITH_NFW_COMPETITIVE_ZONE",
+      "directed_knn_cross_count": 20,
+      "undirected_support_score": 0.01998001998001998
+    },
+    {
+      "zone_a": "PATHOLOGY_ARCHIVE_ZONE",
+      "zone_b": "RESPONSE_FAMILY_WITH_NFW_COMPETITIVE_ZONE",
+      "directed_knn_cross_count": 19,
+      "undirected_support_score": 0.01898101898101898
+    },
+    {
+      "zone_a": "MIXED_THREE_WAY_COMPETITIVE_ZONE",
+      "zone_b": "PATHOLOGY_ARCHIVE_ZONE",
+      "directed_knn_cross_count": 16,
+      "undirected_support_score": 0.015984015984015984
+    },
+    {
+      "zone_a": "HALO_COMPARATOR_DOMINANT_ZONE",
+      "zone_b": "MIXED_THREE_WAY_COMPETITIVE_ZONE",
+      "directed_knn_cross_count": 11,
+      "undirected_support_score": 0.01098901098901099
+    },
+    {
+      "zone_a": "HALO_COMPARATOR_DOMINANT_ZONE",
+      "zone_b": "NUISANCE_SENSITIVE_ZONE",
+      "directed_knn_cross_count": 11,
+      "undirected_support_score": 0.01098901098901099
+    },
+    {
+      "zone_a": "NUISANCE_SENSITIVE_ZONE",
+      "zone_b": "PATHOLOGY_ARCHIVE_ZONE",
+      "directed_knn_cross_count": 9,
+      "undirected_support_score": 0.008991008991008992
+    },
+    {
+      "zone_a": "RESPONSE_FAMILY_DOMINANT_ZONE",
+      "zone_b": "UNRESOLVED_TRIANGULAR_ZONE",
+      "directed_knn_cross_count": 8,
+      "undirected_support_score": 0.007992007992007992
+    }
+  ],
+  "guardrails": [
+    "Do not interpret adjacency as dark-matter taxonomy.",
+    "Do not interpret adjacency as galaxy evolution sequence.",
+    "Use as prioritization for follow-up, holdout, comparator, and external validation tests."
+  ]
+}

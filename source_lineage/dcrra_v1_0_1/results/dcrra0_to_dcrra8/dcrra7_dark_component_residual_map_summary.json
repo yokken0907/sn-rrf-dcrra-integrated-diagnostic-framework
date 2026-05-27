@@ -1,0 +1,51 @@
+{
+  "stage": "DCRRA7-DARK-COMPONENT-RESIDUAL-MAP",
+  "decision": "AUTHORIZE-DCRRA8-CLAIM-BOUNDED-SYNTHESIS",
+  "timestamp_utc": "2026-05-16T11:04:35+00:00",
+  "input_population_count": 143,
+  "map_zone_count": 7,
+  "pass_through_pathology_or_nuisance_count": 42,
+  "interpretable_zone_count": 101,
+  "response_family_zone_count": 77,
+  "nfw_zone_count": 6,
+  "mixed_zone_count": 16,
+  "unresolved_zone_count": 2,
+  "max_zone_fraction": 0.3776223776223776,
+  "proxy_supported_fraction": 0.3146853146853147,
+  "dcrra6_proxy_only_reconstruction_accuracy": 0.3146853146853147,
+  "dcrra6_proxy_only_reconstruction_balanced_accuracy": 0.3287353347135956,
+  "zone_counts": {
+    "RESPONSE_FAMILY_DOMINANT_ZONE": 54,
+    "NUISANCE_SENSITIVE_ZONE": 30,
+    "RESPONSE_FAMILY_WITH_NFW_COMPETITIVE_ZONE": 23,
+    "MIXED_THREE_WAY_COMPETITIVE_ZONE": 16,
+    "PATHOLOGY_ARCHIVE_ZONE": 12,
+    "HALO_COMPARATOR_DOMINANT_ZONE": 6,
+    "UNRESOLVED_TRIANGULAR_ZONE": 2
+  },
+  "guards": {
+    "valid_population_count_eq_143": 1,
+    "map_zone_count_ge_6": 1,
+    "not_single_zone_monopoly_max_fraction_lt_0_75": 1,
+    "response_family_zone_nonzero": 1,
+    "nfw_zone_nonzero": 1,
+    "pass_through_pathology_or_nuisance_preserved": 1,
+    "dcrra6_null_controls_passed": 1,
+    "claim_boundary_preserved": 1
+  },
+  "guard_pass_count": 8,
+  "guard_count": 8,
+  "interpretation": "Dark-component-like rotation-curve residuals can be mapped into multiple diagnostic residual-regime zones. The map preserves response-family, halo-comparator, mixed, nuisance, pathology, and unresolved regimes under DCRRA6 null-control support. Diagnostic map only.",
+  "next_stage": "DCRRA8-CLAIM-BOUNDED-SYNTHESIS",
+  "claim_boundary": [
+    "No dark-matter exclusion claim.",
+    "No Lambda-CDM replacement claim.",
+    "No MOND/RAR falsification claim.",
+    "No NFW-halo falsification claim.",
+    "No Bullet-Cluster explanation claim.",
+    "No particle-identity claim.",
+    "No Hubble-tension solution claim.",
+    "No SN-RRF as physical dark-matter substitute claim.",
+    "Residual maps are diagnostic regime maps, not causal physical classifications."
+  ]
+}

@@ -1,0 +1,12 @@
+PASS-PHASE9-FAILURE-BOUNDARY-LEDGER-COMPILE
+====================================================================================================
+decision: LOCK-PHASE9-FAILURE-BOUNDARY-LEDGER-WITH-NO-GO-CLAIMS
+interpretation: FAILURE-BOUNDARY-LEDGER-LOCKED-WITH-CLAIM-BOUNDARY
+feature_rows: 143
+failure_boundary_row_count: 14
+critical_boundary_count: 3
+high_boundary_count: 6
+fail_or_null_boundary_count: 2
+external_validation: HOLD_NON_SPARC_COMPONENT_CURVE_TABLE_NOT_AVAILABLE
+public_claim_mode: claim-bounded diagnostic framework only
+next: PHASE10-INTEGRATED-MANUSCRIPT-AND-REPOSITORY-PACKAGE or WAIT-FOR-NON-SPARC-DATA

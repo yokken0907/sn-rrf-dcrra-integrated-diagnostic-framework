@@ -1,0 +1,36 @@
+{
+  "stage": "STAGE14-RAR-RELATIVE-RESIDUAL-AUDIT",
+  "valid_population_count": 143,
+  "regime": "broad_free",
+  "median_delta_aic_tvc_minus_rar_like": -33.48248659333697,
+  "tvc_beats_rar_fraction": 0.8671328671328671,
+  "tvc_strongly_beats_rar_fraction_delta_aic_le_minus_10": 0.7132867132867133,
+  "tvc_within_10_aic_of_rar_fraction": 0.972027972027972,
+  "median_delta_aic_tvc_minus_baryonic_fit": -475.79138460945904,
+  "median_delta_aic_tvc_minus_nfw_like": -2.1066193061649656,
+  "strong_improvement_vs_baryonic_fit_fraction": 0.965034965034965,
+  "tvc_boundary_rate": 0.2517482517482518,
+  "tvc_core_boundary_rate": 0.03496503496503497,
+  "tvc_nuisance_boundary_rate": 0.21678321678321677,
+  "rar_boundary_rate": 0.13986013986013987,
+  "claim_boundary": [
+    "No dark-matter exclusion claim.",
+    "No Lambda-CDM replacement claim.",
+    "No MOND/RAR defeat claim.",
+    "No Bullet-Cluster explanation claim.",
+    "No physical proof of a TVC mechanism.",
+    "RAR-relative residual audit only."
+  ],
+  "best_rar_relative_proxy_relation": {
+    "target": "delta_aic_tvc_minus_rar_like",
+    "target_description": "RAR-relative AIC residual: negative favors TVC-RRF",
+    "proxy": "rrf_rc_over_rlast",
+    "spearman_rho": 0.18533520470140186,
+    "abs_spearman_rho": 0.18533520470140186,
+    "n_valid": 143.0,
+    "spearman_pvalue_asymptotic": 0.026686656544996377,
+    "permutation_pvalue_two_sided": 0.028,
+    "claim_role": "diagnostic-rar-relative-residual-audit-only"
+  },
+  "decision": "WEAK-AUTHORIZE-STAGE15-MORPHOLOGY-STRATIFIED-AUDIT-RAR-RESIDUAL-PRESENT-WITH-NUISANCE-RISK: RAR-relative diagnostic audit completed under claim boundaries; this is not a MOND/RAR defeat claim."
+}

@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "SN-RRF-DCRRA v3.0.1 Complete GitHub Repository: Integrated Consolidation of Scale-Normalized Residual-Response and Residual-Regime Diagnostics for SPARC Galaxy Rotation-Curve Residuals"
+message: "If you use this complete repository package, please cite this release archive."
+type: software
+authors:
+  - family-names: Yoshimura
+    given-names: Keiji
+version: "3.0.1-integrated-complete-repository"
+date-released: "2026-05-27"
+repository-code: "https://github.com/yokken0907/sn-rrf-dcrra-integrated-diagnostic-framework"
+license: other-open

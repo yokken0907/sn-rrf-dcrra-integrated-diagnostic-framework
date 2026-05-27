@@ -1,0 +1,3 @@
+PDF compile: PASS
+overfull_hbox_count=0
+underfull_hbox_count=4

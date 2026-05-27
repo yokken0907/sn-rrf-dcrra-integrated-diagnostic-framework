@@ -1,0 +1,25 @@
+{
+  "stage": "DCRRA1-SN-RRF-PARENT-RESULT-IMPORT",
+  "decision": "LOCK-DCRRA1-PARENT-RESULT-IMPORT-DIAGNOSTIC-ONLY",
+  "timestamp_utc": "2026-05-16T10:37:50Z",
+  "parent_result": "SN-RRF = Scale-Normalized Residual Response Family",
+  "stage30_decision": "AUTHORIZE-STAGE31-SN-RRF-CONTINUUM-FAMILY-SYNTHESIS",
+  "stage30_valid_population_count": 143,
+  "stage30_best_n_median": 2.25,
+  "stage30_best_n_q25": 1.5,
+  "stage30_best_n_q75": 3.2544965,
+  "stage30_locked_within_10_fraction": 0.6363636363636364,
+  "stage23_decision": "AUTHORIZE-STAGE24-SN-RRF-STABILITY-SYNTHESIS",
+  "stage26_decision": "WEAK-AUTHORIZE-STAGE27-DESTRUCTIVE-NULLS-PASSED-NEIGHBOR-KERNELS-COMPETE",
+  "stage28_decision": "AUTHORIZE-STAGE29-SN-RRF-KERNEL-FAMILY-SYNTHESIS",
+  "imported_as": "diagnostic parent result only",
+  "not_imported_as": [
+    "dark-matter exclusion",
+    "Lambda-CDM replacement",
+    "MOND/RAR defeat",
+    "NFW falsification",
+    "physical TVC mechanism",
+    "universal fixed exponent law"
+  ],
+  "next_stage": "DCRRA2-DARK-COMPONENT-RESIDUAL-TAXONOMY"
+}

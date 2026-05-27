@@ -1,0 +1,361 @@
+{
+  "generated_utc": "2026-05-25T00:00:00Z",
+  "file_count": 71,
+  "files": [
+    {
+      "path": ".github/FUNDING.yml",
+      "size_bytes": 18,
+      "sha256": "3ae558473afd80b3114bb87ee3a79c51b0c2a0a363701a9d94b2feb5123b9197"
+    },
+    {
+      "path": ".zenodo.json",
+      "size_bytes": 1425,
+      "sha256": "8374cf8be4cd5e3862c59e09118cc1618fc5a61d0dd1fe5396d5472ea3b6f6e7"
+    },
+    {
+      "path": "CITATION.cff",
+      "size_bytes": 917,
+      "sha256": "98e137c9d164167cabaebb21272d52dd763934ec5db61e2c31d8cdb9731b7aca"
+    },
+    {
+      "path": "CLAIM_BOUNDARY.md",
+      "size_bytes": 966,
+      "sha256": "51bd1e58ec888282bdc87ac3c49a8d69fa172c9f2b6c9e15d24db4f521d45bf5"
+    },
+    {
+      "path": "LICENSE_EVALUATION_ONLY.txt",
+      "size_bytes": 107,
+      "sha256": "c3b146d5c825a120827600e8c619bbcc200b64f17067d4f28d6a777e440320de"
+    },
+    {
+      "path": "README.md",
+      "size_bytes": 2440,
+      "sha256": "344a350b666a91a287a0fc78a7d29a4d339560cd86e46e6e49c035f6ef1658f6"
+    },
+    {
+      "path": "README_ja.md",
+      "size_bytes": 2015,
+      "sha256": "9e6a418c6d70206d436ddfb73f6355cbbfac40109f6c75e8b3a9d3061f0b1409"
+    },
+    {
+      "path": "SUPPORT.md",
+      "size_bytes": 903,
+      "sha256": "7ed7558ed06ce02c57793fc4f3c78433de2a096a21692ced4da10074cc334207"
+    },
+    {
+      "path": "data/README_DATA.md",
+      "size_bytes": 112,
+      "sha256": "c9efa5794ede7e4f07c0c7dd96c5f4cafa01abc7ab138af633cdb73b836c1778"
+    },
+    {
+      "path": "docs/DCRRA9_FINAL_PACKAGE_REPORT.md",
+      "size_bytes": 757,
+      "sha256": "d66688026f39a8a3dbab8e0b99c08b1fb1ef85f5c9cdee35630f427beeda61a3"
+    },
+    {
+      "path": "docs/project_visual_orientation/index.html",
+      "size_bytes": 2631,
+      "sha256": "46a982561ae82d40caf616b3bb02ea7de08bb4d2e90302a03283ee1e93fb335e"
+    },
+    {
+      "path": "docs/release/RELEASE_DATA_v1_0_1.md",
+      "size_bytes": 1733,
+      "sha256": "2eaf925b199ff453ba89ba7787e56a911f1c959419ed0e3108efa5ebb0d8fb1a"
+    },
+    {
+      "path": "docs/zenodo/ZENODO_METADATA_v1_0_1.txt",
+      "size_bytes": 1096,
+      "sha256": "1804eabe24e6e893243732ff2765cfbe9fe916009bead763c0571b2b27143295"
+    },
+    {
+      "path": "figures/dcrra_zone_counts.png",
+      "size_bytes": 94714,
+      "sha256": "1f0c648551034991a5eae6eb731f76d9ae0e4b8bec028c56f944e5950fef77c9"
+    },
+    {
+      "path": "figures/dcrra_zone_median_best_n.png",
+      "size_bytes": 84233,
+      "sha256": "8ee7cb329304efbf79886540196cd1be338527b9a0132217f9aae322d0541126"
+    },
+    {
+      "path": "paper/DCRRA_claim_bounded_residual_regime_diagnostics_v1_0_1.pdf",
+      "size_bytes": 403490,
+      "sha256": "d5c5d8fa9899b0eb16d48ba475758098066b0d83636a7d47e4785ee5fb9b14ec"
+    },
+    {
+      "path": "paper/DCRRA_claim_bounded_residual_regime_diagnostics_v1_0_1.tex",
+      "size_bytes": 17453,
+      "sha256": "7a33b910cfdbc1059e030cd2c44c8eef0d85f7145f674df0e94e65426db6773e"
+    },
+    {
+      "path": "paper/archive_v1_0_0_original_framing/DCRRA_dark_component_residual_response_audit.pdf",
+      "size_bytes": 400072,
+      "sha256": "fafb1b5161103a44631bff8ca34af687bd793b6a31d972ce6868e2d96d8881a3"
+    },
+    {
+      "path": "paper/archive_v1_0_0_original_framing/DCRRA_dark_component_residual_response_audit.tex",
+      "size_bytes": 15460,
+      "sha256": "2a5012d2d08cb29feb1984325f9e7127ea599a5b9057c67039535a9f4b3336a3"
+    },
+    {
+      "path": "results/DCRRA9_DECISION.txt",
+      "size_bytes": 186,
+      "sha256": "defd7ee27010ecba2901b7485790d0d16e4f8a3c3d7fae7b9ee50aff62f328ee"
+    },
+    {
+      "path": "results/dcrra0_to_dcrra8/DCRRA0_DECISION.txt",
+      "size_bytes": 323,
+      "sha256": "f4d00f400ea0402606d53d4a78f341b2b7c80e888e205d0dc4aff91bb0de97f7"
+    },
+    {
+      "path": "results/dcrra0_to_dcrra8/DCRRA1_DECISION.txt",
+      "size_bytes": 75,
+      "sha256": "769573357efbf6ab075b55ca39e22ac2f6d2a3645113f0d667a86207711ddd9d"
+    },
+    {
+      "path": "results/dcrra0_to_dcrra8/DCRRA2_DECISION.txt",
+      "size_bytes": 104,
+      "sha256": "acdb8df23042b38a9e21f27659f0588bf1ed3d16a3e80ac645e902eb0d076764"
+    },
+    {
+      "path": "results/dcrra0_to_dcrra8/DCRRA3_DECISION.txt",
+      "size_bytes": 194,
+      "sha256": "3c1b1a7580c8f63ef286beafc33d0d2af6e1c6e68a1c0767eb0bc17644641088"
+    },
+    {
+      "path": "results/dcrra0_to_dcrra8/DCRRA4_DECISION.txt",
+      "size_bytes": 238,
+      "sha256": "53a045b85a53cde02a87cf66c489743dfff215d8b5fbf4729849b0db953b636f"
+    },
+    {
+      "path": "results/dcrra0_to_dcrra8/DCRRA5_DECISION.txt",
+      "size_bytes": 342,
+      "sha256": "02471381d77d0e3e959fda96439a032dddde2adae3fd930c699c5955b3fcc895"
+    },
+    {
+      "path": "results/dcrra0_to_dcrra8/DCRRA6_DECISION.txt",
+      "size_bytes": 474,
+      "sha256": "12e69e08a14c1b184a95b7a38a21968af4bb9141171870e4227fb19403713fc8"
+    },
+    {
+      "path": "results/dcrra0_to_dcrra8/DCRRA7_DECISION.txt",
+      "size_bytes": 378,
+      "sha256": "6569afe69c6f7e09858354704e25c5e4c5cb133dd6f69208c4712bba9eb09b40"
+    },
+    {
+      "path": "results/dcrra0_to_dcrra8/DCRRA8_DECISION.txt",
+      "size_bytes": 483,
+      "sha256": "23b1ed60a392ce03187b5eab5a14489efc37376977a7ee782162fc96e96780a7"
+    },
+    {
+      "path": "results/dcrra0_to_dcrra8/dcrra0_scope_lock_summary.json",
+      "size_bytes": 611,
+      "sha256": "a5b8f53507289070900614492303aeef791e542d004cf7c793a4e171e3a75e6c"
+    },
+    {
+      "path": "results/dcrra0_to_dcrra8/dcrra1_parent_import_summary.json",
+      "size_bytes": 1058,
+      "sha256": "e867166a075cfaa8c51acda790d4f966c4f51c0e8ebeb16c8318f3c4cc64d4bc"
+    },
+    {
+      "path": "results/dcrra0_to_dcrra8/dcrra2_dark_component_residual_taxonomy_by_galaxy.csv",
+      "size_bytes": 61134,
+      "sha256": "d6dd6322610a49bed10d6a7ef231a3c5d0c21e3e9aac6bbac9d643020bc14369"
+    },
+    {
+      "path": "results/dcrra0_to_dcrra8/dcrra2_dark_component_residual_taxonomy_summary.json",
+      "size_bytes": 914,
+      "sha256": "82e6f2a7ae87cd5afdb346d587077b48424ddd4892eff55385352edbb5738ff9"
+    },
+    {
+      "path": "results/dcrra0_to_dcrra8/dcrra2_taxonomy_class_counts.csv",
+      "size_bytes": 181,
+      "sha256": "2284b06e361d0fddf671c919f96e58f01e5b9956ddcc1514d6a53a4b7b041418"
+    },
+    {
+      "path": "results/dcrra0_to_dcrra8/dcrra3_by_galaxy_reclassification.csv",
+      "size_bytes": 67970,
+      "sha256": "06ee338e6acb1d2fd8f57cf66b7bac5c6d97070c33aac606d87685314a302d2c"
+    },
+    {
+      "path": "results/dcrra0_to_dcrra8/dcrra3_class_audit_summary.csv",
+      "size_bytes": 851,
+      "sha256": "ab57029e7d2c61b03af3c3d22d2393c58cd0e2090ae7ee8b3d563a7ff216ea18"
+    },
+    {
+      "path": "results/dcrra0_to_dcrra8/dcrra3_sparc_reclassification_summary.json",
+      "size_bytes": 1095,
+      "sha256": "76444748c9702b6a28cbb5a2a85892d39a93da45e1fdeee82ea6efed3d3ede14"
+    },
+    {
+      "path": "results/dcrra0_to_dcrra8/dcrra4_by_galaxy_triangular_comparator.csv",
+      "size_bytes": 106886,
+      "sha256": "32ada60070ba4c75d3e60e694fae7d3b192f0b8453f53d439f82e15848736c73"
+    },
+    {
+      "path": "results/dcrra0_to_dcrra8/dcrra4_class_triangular_summary.csv",
+      "size_bytes": 904,
+      "sha256": "ca47165620d897d6693c007c17feb2d8ae968318315103ca6dc97e8b0cf0289d"
+    },
+    {
+      "path": "results/dcrra0_to_dcrra8/dcrra4_triangle_class_counts.csv",
+      "size_bytes": 374,
+      "sha256": "d27c4e7df04b1dc3ddb1306729afcb2757fbe9d95dc50aee1bcae4057f0cc014"
+    },
+    {
+      "path": "results/dcrra0_to_dcrra8/dcrra4_triangular_comparator_report.md",
+      "size_bytes": 2747,
+      "sha256": "d450be19e6faa3dd80e4729062ac92beb52889d19cd92f83964d6fff2dbeffac"
+    },
+    {
+      "path": "results/dcrra0_to_dcrra8/dcrra4_triangular_comparator_summary.json",
+      "size_bytes": 2202,
+      "sha256": "9c40f98ddafde63b0fd76ecc31d04e43104bfc57c87c4908de1c397dcc84cf19"
+    },
+    {
+      "path": "results/dcrra0_to_dcrra8/dcrra5_class_proxy_medians.csv",
+      "size_bytes": 4687,
+      "sha256": "41a6ec4d0c6756b9cb750bc8127239b520b7252077696fd8660601c1239a4fc6"
+    },
+    {
+      "path": "results/dcrra0_to_dcrra8/dcrra5_environment_morphology_proxy_report.md",
+      "size_bytes": 3470,
+      "sha256": "1c50f7580f797bb0fc95afbc9fe324a002f699ec8c60ad2dee6836c508415276"
+    },
+    {
+      "path": "results/dcrra0_to_dcrra8/dcrra5_environment_morphology_proxy_summary.json",
+      "size_bytes": 3733,
+      "sha256": "fac8a9dc11fb146732069341f05ef9d574592fbde3952cac0d24e59afb35ff5b"
+    },
+    {
+      "path": "results/dcrra0_to_dcrra8/dcrra5_proxy_association_summary.csv",
+      "size_bytes": 548,
+      "sha256": "d86366c82304b2073e58ffa33df459d2fa6534ade33a3af003015ffd97074cd3"
+    },
+    {
+      "path": "results/dcrra0_to_dcrra8/dcrra5_proxy_bin_class_summary.csv",
+      "size_bytes": 17646,
+      "sha256": "d41823b140679274a892db64bdd0a38c67b9b6b96671414680d854bb89074f6d"
+    },
+    {
+      "path": "results/dcrra0_to_dcrra8/dcrra5_triangular_class_proxy_enrichment.csv",
+      "size_bytes": 3689,
+      "sha256": "543ef8a103f1bdf34659b17edc86e4fd03192c744e5baea4982e1e01fca38f64"
+    },
+    {
+      "path": "results/dcrra0_to_dcrra8/dcrra6_class_reconstruction_summary.csv",
+      "size_bytes": 486,
+      "sha256": "a99798176b12b8d60084f975f1d82232a1eba1fe47a9b83c178e803a8d30eddf"
+    },
+    {
+      "path": "results/dcrra0_to_dcrra8/dcrra6_constructive_control_summary.csv",
+      "size_bytes": 434,
+      "sha256": "02cf76ca1b9f451cff1b2ad109b7b921336def306eae38343382da95a94bb0d4"
+    },
+    {
+      "path": "results/dcrra0_to_dcrra8/dcrra6_constructive_proxy_reconstruction_by_galaxy.csv",
+      "size_bytes": 11529,
+      "sha256": "d78760b60bd2efbc9f72f7dbb4eeec710884096fccd1ea2471851b84f3d9c166"
+    },
+    {
+      "path": "results/dcrra0_to_dcrra8/dcrra6_destructive_constructive_null_report.md",
+      "size_bytes": 2045,
+      "sha256": "c025bcf2ab114beae27eed2eb7885df44e120e70d08df1fc14e22d5091b10215"
+    },
+    {
+      "path": "results/dcrra0_to_dcrra8/dcrra6_destructive_constructive_null_summary.json",
+      "size_bytes": 1761,
+      "sha256": "8809c26abc7b3139b8d8138fa3900b377a9e5ec80864be19ea32350e60a20834"
+    },
+    {
+      "path": "results/dcrra0_to_dcrra8/dcrra6_destructive_null_results.csv",
+      "size_bytes": 728,
+      "sha256": "62e6775e0d9a43a6a2f0984a6a05a3c86d4ac5bddf26ad9868d09d260566046a"
+    },
+    {
+      "path": "results/dcrra0_to_dcrra8/dcrra6_proxy_signal_profile.csv",
+      "size_bytes": 387,
+      "sha256": "9b15ffa88a71fce5c068faa2910a131845631b4a96e3248d7cdf500c64948550"
+    },
+    {
+      "path": "results/dcrra0_to_dcrra8/dcrra7_by_galaxy_residual_map.csv",
+      "size_bytes": 70465,
+      "sha256": "32eef6a55c741e231da6b31b558978a7dd9fc402478f1fe920c082c76feeab08"
+    },
+    {
+      "path": "results/dcrra0_to_dcrra8/dcrra7_dark_component_residual_map_report.md",
+      "size_bytes": 5661,
+      "sha256": "621652c0c50d5d2a94332975b6257431d55a9822b0d5722546a3dd9afda608c7"
+    },
+    {
+      "path": "results/dcrra0_to_dcrra8/dcrra7_dark_component_residual_map_summary.json",
+      "size_bytes": 2128,
+      "sha256": "544d40804b14541b17e23da1aea61c54da6189d9fae45d017f4669d5531f9775"
+    },
+    {
+      "path": "results/dcrra0_to_dcrra8/dcrra7_map_zone_counts.csv",
+      "size_bytes": 407,
+      "sha256": "c318166c85345c0ff822cb4963920bdee3dcf8702d89fb249d08dd07fd7a3275"
+    },
+    {
+      "path": "results/dcrra0_to_dcrra8/dcrra7_map_zone_summary.csv",
+      "size_bytes": 1516,
+      "sha256": "5dab47e0d4b43f8316575d2c0e4df791b36bf67036157ca44e67f85033d88cf8"
+    },
+    {
+      "path": "results/dcrra0_to_dcrra8/dcrra7_triangle_to_map_zone_crosstab.csv",
+      "size_bytes": 506,
+      "sha256": "69629e42ea1f6360f14a34fb8ee88d9191dbbd6b2b355d208f3559c916f18c3e"
+    },
+    {
+      "path": "results/dcrra0_to_dcrra8/dcrra7_zone_evidence_tier_crosstab.csv",
+      "size_bytes": 457,
+      "sha256": "ee1d8161e9917c4042cd0d9ebd4ce14817c71fa6b3eef51e5391f7979e6ebdae"
+    },
+    {
+      "path": "results/dcrra0_to_dcrra8/dcrra7_zone_proxy_support_crosstab.csv",
+      "size_bytes": 354,
+      "sha256": "86042df68ac3d3ccd3e2501c677c7fe016b251ea951b980d2716d977a0e29d83"
+    },
+    {
+      "path": "results/dcrra0_to_dcrra8/dcrra8_claim_bounded_synthesis_report.md",
+      "size_bytes": 6468,
+      "sha256": "894009fb9ba8d8d29a1848f416390aed80bb5b2de9de1d76a6c1f90bf53b795e"
+    },
+    {
+      "path": "results/dcrra0_to_dcrra8/dcrra8_claim_bounded_synthesis_summary.json",
+      "size_bytes": 2476,
+      "sha256": "60fff22845fb918fa5eda8a57dd7775c1f0e026a4fdecd6b283324c71aae294b"
+    },
+    {
+      "path": "results/dcrra0_to_dcrra8/dcrra8_key_synthesis_metrics.csv",
+      "size_bytes": 436,
+      "sha256": "926b8aa6211c9ffc8799a0bc8813b0e25af4accca59444dd7fa3914967a5a17b"
+    },
+    {
+      "path": "results/dcrra0_to_dcrra8/dcrra8_synthesis_zone_counts.csv",
+      "size_bytes": 401,
+      "sha256": "d10c847936caaf34796774df46509f721fd328175f79ec0c363c3dfb234cf855"
+    },
+    {
+      "path": "results/dcrra0_to_dcrra8/dcrra8_synthesis_zone_medians.csv",
+      "size_bytes": 1500,
+      "sha256": "5e05bcb41601386c3cdbe556bbe97d4b65ede1e95fbf3fd7328065c2e3a10697"
+    },
+    {
+      "path": "results/dcrra9_final_package_summary.json",
+      "size_bytes": 1054,
+      "sha256": "66dcb250bcf73209c9a5efa934ff0a6ffc8cb507b638e045586663e1e4c16354"
+    },
+    {
+      "path": "scripts/README_SCRIPTS.md",
+      "size_bytes": 109,
+      "sha256": "8c16520e36375c9e4028ba1e3693eadee1fc53e23d40d68e87077c55eedc7678"
+    },
+    {
+      "path": "submission_helpers/CLAIM_BOUNDARY_CHECKLIST_DCRRA.md",
+      "size_bytes": 717,
+      "sha256": "6fa0fa24a6d0e6baf2710694277bbd915da8ecf94e0323f1da993b023c36c725"
+    }
+  ]
+}

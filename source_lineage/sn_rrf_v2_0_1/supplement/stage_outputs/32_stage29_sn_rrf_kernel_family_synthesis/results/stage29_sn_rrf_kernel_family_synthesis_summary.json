@@ -1,0 +1,44 @@
+{
+  "stage": "STAGE29-SN-RRF-KERNEL-FAMILY-SYNTHESIS",
+  "decision": "LOCK-STAGE29-SN-RRF-KERNEL-FAMILY-SYNTHESIS-DIAGNOSTIC-ONLY",
+  "source_stage": "STAGE28-KERNEL-FAMILY-PROFILE-AUDIT",
+  "valid_population_count": 143,
+  "locked_kernel": "locked_rrf_nfixed",
+  "fixed_n": 3.258993,
+  "stage28_best_neighbor_counts": {
+    "saturating_n2": 67,
+    "saturating_n4": 26,
+    "saturating_n1": 16,
+    "saturating_n8": 12,
+    "arctan_saturating": 10,
+    "exp_saturating": 8,
+    "saturating_n6": 4
+  },
+  "stage28_key_results": {
+    "median_delta_aic_locked_minus_best_neighbor": 4.082307127320703,
+    "locked_beats_best_neighbor_fraction": 0.1258741258741259,
+    "kernel_count_profiled": 7,
+    "full_per_kernel_table_available": true,
+    "strongest_discrete_competitor_by_per_galaxy_best_count": "saturating_n2",
+    "locked_kernel_beats_saturating_n4_fraction": 0.769231,
+    "locked_kernel_beats_saturating_n6_fraction": 0.846154,
+    "locked_kernel_beats_saturating_n8_fraction": 0.874126
+  },
+  "synthesis": {
+    "fixed_exponent_uniqueness": "not_supported",
+    "supported_language": "scale-normalized residual-response family of monotone saturating radial kernels",
+    "representative_kernel_status": "n=3.258993 remains a useful representative/history-locked diagnostic kernel but not a unique law",
+    "family_core": "saturating monotone kernels, especially the n~2 to n~4 neighborhood, with broader n/exp/arctan alternatives retained as comparator family members"
+  },
+  "claim_boundary": [
+    "No dark-matter exclusion claim.",
+    "No Lambda-CDM replacement claim.",
+    "No MOND/RAR defeat claim.",
+    "No Bullet-Cluster explanation claim.",
+    "No physical proof of a TVC mechanism.",
+    "No Hubble-tension solution claim.",
+    "Kernel-family diagnostic only.",
+    "No universal fixed-exponent law claim.",
+    "No physical-promotion claim from kernel-family profiling."
+  ]
+}

@@ -1,0 +1,154 @@
+
+\documentclass[11pt]{article}
+\usepackage[a4paper,margin=22mm]{geometry}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{enumitem}
+\usepackage{float}
+\usepackage[strings]{underscore}
+\hypersetup{colorlinks=true, linkcolor=blue, urlcolor=blue, citecolor=blue}
+\setlength{\parskip}{0.55em}
+\setlength{\parindent}{0pt}
+\newcommand{\RR}{SN-RRF/DCRRA}
+\title{SN-RRF-DCRRA v3.0.0:\\A Claim-Bounded Integrated Diagnostic Framework\\for Galaxy Rotation-Curve Residual Regimes}
+\author{Keiji Yoshimura\\Independent Researcher}
+\date{May 2026}
+\begin{document}
+\maketitle
+
+\begin{abstract}
+This manuscript integrates the Scale-Normalized Residual Response Family (SN-RRF) and the Dark-Component-like Residual-Regime Audit (DCRRA) into a v3.0.0 claim-bounded diagnostic package for SPARC galaxy rotation-curve residual regimes. The work is explicitly framed as a diagnostic and failure-boundary synthesis, not as dark-matter exclusion, a Lambda-CDM replacement, MOND/RAR or NFW falsification, particle-identification inference, or a non-SPARC external validation result. Across 143 eligible SPARC galaxies, the integrated package preserves a seven-zone residual-regime map, extends it with feature-space and SPARC rotmod functional residual-shape audits, expands comparator and overflex-null fairness checks, tests proxy/systematics sensitivity, performs frozen holdout robustness audits, and records synthetic injection-recovery and separability failures. Phases 0--7 support internal diagnostic structure with boundary cautions. Phases 8 and 8R are locked as FAIL_OR_NULL, indicating that the current frozen rules do not sufficiently recover or separate synthetic response-like, halo-like, RAR-like, and mixed-like patterns. Phase 9 therefore locks a failure-boundary ledger as a first-class result. The safe conclusion is limited: within the internal SPARC diagnostic protocol, \RR{} provides a structured residual-regime diagnostic framework with explicit comparator, proxy, holdout, injection-recovery, and failure-boundary limitations. Full non-SPARC external residual-level validation remains on data-availability HOLD.
+\end{abstract}
+
+\section{Reader guidance and claim boundary}
+This paper should be read as an internal SPARC residual-diagnostic synthesis. It does not establish the physical nature or non-existence of dark matter. It does not replace Lambda-CDM, falsify MOND/RAR, falsify NFW halo models, explain the Bullet Cluster, identify a dark-matter particle, or solve the Hubble tension.
+
+The allowed positive claim is narrower: within the tested internal SPARC protocol, \RR{} organizes residual behavior into a claim-bounded diagnostic framework with explicit failure boundaries.
+
+\section{Background and lineage}
+The SN-RRF parent line began as a claim-bounded rescue of an earlier fixed-exponent residual-response ansatz. The fixed exponent was not retained as a universal physical law. Instead, the retained object was a scale-normalized monotone-saturating residual-response family. DCRRA then organized the eligible SPARC population into residual-regime zones under diagnostic comparators and null controls. The present v3.0.0 package integrates those two lineages with the A10 theory-construction rule: speculative hypotheses may enter the protocol, but only evidence-bounded claims may exit it.
+
+\section{Integrated data and phase scope}
+The integrated v3.0.0 package uses 143 eligible SPARC galaxies from the prior SN-RRF/DCRRA line. SPARC public rotmod material was used for internal functional residual-shape audits, yielding 143/143 matches to the integrated feature table. This is not a non-SPARC external validation sample.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.9\linewidth]{figs/v300_phase_status.png}
+\caption{Phase status for the v3.0.0 internal audit sequence. Phases 8 and 8R are intentionally preserved as FAIL\_OR\_NULL rather than repaired into a false pass.}
+\end{figure}
+
+\section{Residual-regime map}
+The DCRRA seven-zone residual-regime map is retained as a diagnostic taxonomy, not a physical taxonomy. Table~\ref{tab:zones} summarizes the 143-galaxy distribution.
+
+\begin{table}[H]
+\centering
+\caption{DCRRA residual-regime zone counts in the integrated 143-galaxy population.}
+\label{tab:zones}
+\begin{tabular}{lrr}\toprule
+Zone & Count & Fraction \\ \midrule
+RESPONSE\_FAMILY\_DOMINANT\_ZONE & 54 & 0.378 \\ 
+NUISANCE\_SENSITIVE\_ZONE & 30 & 0.210 \\ 
+RESPONSE\_FAMILY\_WITH\_NFW\_COMPETITIVE\_ZONE & 23 & 0.161 \\ 
+MIXED\_THREE\_WAY\_COMPETITIVE\_ZONE & 16 & 0.112 \\ 
+PATHOLOGY\_ARCHIVE\_ZONE & 12 & 0.084 \\ 
+HALO\_COMPARATOR\_DOMINANT\_ZONE & 6 & 0.042 \\ 
+UNRESOLVED\_TRIANGULAR\_ZONE & 2 & 0.014 \\ 
+\bottomrule\end{tabular}
+\end{table}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.92\linewidth]{figs/v300_zone_counts.png}
+\caption{Seven-zone residual-regime counts. The zones are retained as diagnostic regimes, not causal or physical categories.}
+\end{figure}
+
+\section{Phase 0--3: internal feature-space and regime-transition diagnostics}
+Phases 0--3 integrate the prior SN-RRF and DCRRA outputs, construct the unified residual-response feature table, audit feature-space structure, and build diagnostic regime-transition adjacency. The row count is 143 and the zone count is 7. The transition graph is diagnostic adjacency only, not a physical evolutionary path.
+
+\section{Phase 4AB: functional residual-shape audit}
+Phase 4AB uses public SPARC rotmod data for internal functional residual-shape auditing. The rotmod file count is 175, the matched integrated sample count is 143, and the missing count is 0. A 40-point common radial grid produces 5720 shape-grid rows. The first two shape principal components explain a large fraction of residual-shape variation, but the seven-zone DCRRA map is not reproduced by simple shape clustering. The Phase 4B adjusted Rand index is 0.097191. This supports a multi-layer diagnostic interpretation: shape is useful, but it is not the whole taxonomy.
+
+\section{Phase 5 and 5R: expanded comparator and overflex-null fairness}
+Phase 5 expands the comparator set and finds that an over-flexible polynomial null dominates under the initial AIC criterion, with an overflex winner fraction of 0.860140. Phase 5R then shows that the dominance is sensitive to complexity penalties. The AIC overflex fraction is 0.860140, while AICc and BIC alternatives materially change the interpretation. Therefore comparator wins are not physical model-selection evidence.
+
+\section{Phase 6: proxy and baryonic-systematics sensitivity}
+Phase 6 tests 14 proxies and identifies 5 strong proxy split associations. The result supports proxy/systematics sensitivity structure. This strengthens the diagnostic interpretation but cautions against causal physical classification.
+
+\section{Phase 7: frozen holdout robustness}
+Phase 7 evaluates 32 holdout conditions excluding the baseline. The stable holdout fraction is 1.000000. This supports internal robustness under frozen holdout protocols, but does not remove the external-data boundary or the comparator and separability cautions.
+
+\section{Phase 8 and 8R: injection-recovery and separability limitations}
+Phase 8 is locked as FAIL\_OR\_NULL. The synthetic case count is 2574, the balanced accuracy is 0.566434, and only 2/6 guards pass. Phase 8R is also locked as FAIL\_OR\_NULL. Its best full-coverage operational balanced accuracy remains 0.566434. Physical-like mean recall is 0.432984, while pathology/nuisance mean recall is 0.833333. The largest off-diagonal confusion is RAR\_LIKE->HALO\_LIKE with count 130.
+
+The implication is central: DCRRA zones must not be treated as strong physical-category classifiers. The framework is more defensible as a residual-regime and failure-boundary diagnostic map.
+
+\section{Phase 9: failure-boundary ledger}
+Phase 9 compiles 14 failure-boundary rows, including 3 critical and 6 high-severity boundaries. The ledger is the public-claim control surface for this release.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.70\linewidth]{figs/v300_failure_boundary_severity.png}
+\caption{Failure-boundary severity counts in Phase 9. Critical boundaries include external data availability and injection-recovery / separability limitations.}
+\end{figure}
+
+\begin{longtable}{llllp{6.1cm}}
+\caption{Condensed Phase 9 failure-boundary ledger.}\\
+\toprule
+ID & Phase & Severity & Status & Interpretation \\
+\midrule
+\endfirsthead
+\toprule
+ID & Phase & Severity & Status & Interpretation \\
+\midrule
+\endhead
+FB-001 & External branch & CRITICAL & HOLD & Full external residual-level validation remains unavailable. \\
+FB-002 & Phase 4AB & MEDIUM & CAUTION & DCRRA zones are not simple residual-shape clusters. \\
+FB-003 & Phase 4AB & LOW & INFORMATIVE & Residual-shape structure is real enough to audit, but not sufficient as taxonomy. \\
+FB-004 & Phase 5 & HIGH & CAUTION & Over-flexible null absorbs residual structure in many galaxies. \\
+FB-005 & Phase 5R & HIGH & CAUTION & Overflex dominance is penalty-sensitive; AIC-only conclusions are unsafe. \\
+FB-006 & Phase 6 & HIGH & SUPPORTED\_BOUNDARY & Comparator and regime behavior is associated with observational / baryonic proxies. \\
+FB-007 & Phase 6 & MEDIUM & CAUTION & A nontrivial subset carries elevated failure-boundary risk. \\
+FB-008 & Phase 7 & LOW & SUPPORTED\_WITH\_CAUTION & Frozen holdouts are stable, but boundary cautions remain for restricted subsets and leaveout shifts. \\
+FB-009 & Phase 8 & CRITICAL & FAIL\_OR\_NULL\_LOCKED & Synthetic injection-recovery is not sufficiently supported by frozen rules. \\
+FB-010 & Phase 8 & HIGH & CAUTION & HALO\_LIKE is weakly recovered under the tested protocol. \\
+FB-011 & Phase 8 & HIGH & CAUTION & Recovery degrades materially under high-noise injections. \\
+FB-012 & Phase 8R & CRITICAL & FAIL\_OR\_NULL\_LOCKED & Separability limitation persists after diagnostic repair audit. \\
+FB-013 & Phase 8R & HIGH & CAUTION & Physical-like / comparator-like adjacent types remain confusable. \\
+FB-015 & Phase 0-3 & LOW & CARRIED\_FORWARD & Earlier boundary notes remain part of v3.0.0 ledger. \\
+\bottomrule
+\end{longtable}
+
+\section{External validation status}
+Full non-SPARC external residual-level validation remains on data-availability HOLD. The missing material is a usable non-SPARC, radius-resolved baryonic component-curve table with sufficient provenance, component definitions, units, and permission for analysis. If such data arrive later, the external branch should restart from manual source-material acceptance rather than from a validation claim.
+
+\section{Safe synthesis}
+The safe synthesis is deliberately limited. Within the internal SPARC diagnostic protocol, \RR{} provides a structured residual-regime diagnostic framework with explicit comparator, proxy, holdout, injection-recovery, and failure-boundary limitations. It is not a physical dark-matter classification, not an exclusion of dark matter, and not a replacement for established galaxy-dynamics or cosmological analyses.
+
+\section{Limitations}
+The main limitations are: (1) all current results are internal to the SPARC diagnostic protocol; (2) non-SPARC residual-level validation is HOLD; (3) flexible nulls can absorb residual structure; (4) comparator dominance is complexity-penalty sensitive; (5) proxy/systematics associations are present; (6) injection-recovery and diagnostic separability are not sufficiently supported under frozen rules; and (7) DCRRA zones are not physical-category labels.
+
+\section{Reproducibility}
+The repository contains the integrated manuscript, phase outputs, runner archives, verification tools, manifest files, claim-boundary documents, and source-lineage materials. Package verification is performed by:
+\begin{verbatim}
+python tools/verify_manifest_excluding_self.py
+python scripts/verify_phase10_package.py
+\end{verbatim}
+
+\section{AI assistance disclosure}
+Large language models, including OpenAI ChatGPT, were used as research-assistance tools for theory structuring, verification-protocol organization, code-drafting support, numerical-audit workflow organization, and manuscript editing support. The author remains responsible for the final scientific claims, claim boundaries, interpretation, and manuscript content.
+
+\begin{thebibliography}{9}
+\bibitem{akaike1974} Akaike, H. (1974). A new look at the statistical model identification. \textit{IEEE Transactions on Automatic Control}. DOI: 10.1109/TAC.1974.1100705.
+\bibitem{lelli2016} Lelli, F., McGaugh, S. S., and Schombert, J. M. (2016). SPARC: Mass Models for 175 Disk Galaxies with Spitzer Photometry and Accurate Rotation Curves. \textit{The Astronomical Journal}. DOI: 10.3847/0004-6256/152/6/157.
+\bibitem{mcgaugh2016} McGaugh, S. S., Lelli, F., and Schombert, J. M. (2016). Radial Acceleration Relation in Rotationally Supported Galaxies. \textit{Physical Review Letters}. DOI: 10.1103/PhysRevLett.117.201101.
+\bibitem{milgrom1983} Milgrom, M. (1983). A modification of the Newtonian dynamics as a possible alternative to the hidden mass hypothesis. \textit{The Astrophysical Journal}. DOI: 10.1086/161130.
+\bibitem{nfw1997} Navarro, J. F., Frenk, C. S., and White, S. D. M. (1997). A Universal Density Profile from Hierarchical Clustering. \textit{The Astrophysical Journal}. DOI: 10.1086/304888.
+\bibitem{yoshimura_snrff} Yoshimura, K. (2026). Claim-Bounded Diagnostics for SPARC Galaxy Rotation-Curve Residuals: Scale-Normalized Residual-Response Family Tests and Null-Control Audits. Independent manuscript and repository package.
+\bibitem{yoshimura_dcrra} Yoshimura, K. (2026). Claim-Bounded Diagnostics for Dark-Component-like SPARC Rotation-Curve Residuals: Residual-Regime Mapping, Comparator Audits, and Null-Control Checks. Independent manuscript and repository package.
+\end{thebibliography}
+
+\end{document}

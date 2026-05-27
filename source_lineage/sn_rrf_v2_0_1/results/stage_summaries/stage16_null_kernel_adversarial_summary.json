@@ -1,0 +1,92 @@
+{
+  "stage": "STAGE16-NULL-KERNEL-SHUFFLED-LABEL-ADVERSARIAL-AUDIT",
+  "valid_population_count": 143,
+  "input_population_table": "15_stage13r_rotmod_proxy_repair_audit/results_uploaded_stage13r_repair/stage13r_by_galaxy_population_table.csv",
+  "seed": 20260516,
+  "n_permutation_requested": 2000,
+  "guard_pass_count": 5,
+  "guard_test_count": 5,
+  "main_amplitude_relation_guard_pass": true,
+  "class_label_separation_guard_pass": true,
+  "test_results": [
+    {
+      "test": "shuffle_rrf_amplitude_vs_vmax",
+      "description": "Tests whether the strong A10/TVC-RRF amplitude relation with maximum rotation velocity survives amplitude scrambling.",
+      "x_col": "rrf_log10_A",
+      "y_col": "v_max_kms",
+      "shuffled_col": "rrf_log10_A",
+      "observed_spearman_rho": 0.8731737447209633,
+      "n_valid": 143,
+      "n_permutation": 2000,
+      "null_median_rho": 0.0020150368536950144,
+      "null_p95_abs_rho": 0.16548264444011132,
+      "permutation_pvalue_two_sided": 0.0004997501249375312,
+      "passes_guard": true
+    },
+    {
+      "test": "shuffle_rar_residual_vs_rrf_scale_fraction",
+      "description": "Tests whether the RAR-relative residual/response-scale relation survives residual scrambling.",
+      "x_col": "delta_aic_tvc_minus_rar_like",
+      "y_col": "rrf_rc_over_rlast",
+      "shuffled_col": "delta_aic_tvc_minus_rar_like",
+      "observed_spearman_rho": 0.18533520470140186,
+      "n_valid": 143,
+      "n_permutation": 2000,
+      "null_median_rho": -0.00018057060310581438,
+      "null_p95_abs_rho": 0.1618901638267835,
+      "permutation_pvalue_two_sided": 0.022988505747126436,
+      "passes_guard": true
+    },
+    {
+      "test": "shuffle_rar_residual_vs_radial_extent",
+      "description": "Tests whether the RAR-relative residual/radial-extent relation survives residual scrambling.",
+      "x_col": "delta_aic_tvc_minus_rar_like",
+      "y_col": "r_last_kpc",
+      "shuffled_col": "delta_aic_tvc_minus_rar_like",
+      "observed_spearman_rho": -0.1781798706948761,
+      "n_valid": 143,
+      "n_permutation": 2000,
+      "null_median_rho": 0.0019247382213394958,
+      "null_p95_abs_rho": 0.16361895929567866,
+      "permutation_pvalue_two_sided": 0.031984007996002,
+      "passes_guard": true
+    },
+    {
+      "test": "shuffle_nfw_residual_vs_normalized_amplitude",
+      "description": "Tests whether the NFW-relative residual/normalized-amplitude relation survives residual scrambling.",
+      "x_col": "delta_aic_tvc_minus_nfw_like",
+      "y_col": "rrf_A_over_vouter2",
+      "shuffled_col": "delta_aic_tvc_minus_nfw_like",
+      "observed_spearman_rho": -0.2577358087921468,
+      "n_valid": 143,
+      "n_permutation": 2000,
+      "null_median_rho": 0.0024520667126300927,
+      "null_p95_abs_rho": 0.1614812124495223,
+      "permutation_pvalue_two_sided": 0.001999000499750125,
+      "passes_guard": true
+    },
+    {
+      "test": "shuffle_stage8_class_label_separation",
+      "description": "Tests whether Stage 8 class-label separation in NFW-relative residual is stronger than shuffled class assignments.",
+      "observed_median_sep_robust_minus_nfw_dominant_dAIC_TVC_NFW": -31.23000789284233,
+      "n_permutation": 2000,
+      "null_median_sep": 0.38399543588295637,
+      "null_p05_sep": -4.888184983167193,
+      "permutation_pvalue_one_sided_more_negative": 0.0004997501249375312,
+      "passes_guard": true
+    }
+  ],
+  "claim_boundary": [
+    "No dark-matter exclusion claim.",
+    "No Lambda-CDM replacement claim.",
+    "No MOND/RAR defeat claim.",
+    "No Bullet-Cluster explanation claim.",
+    "No physical proof of a TVC mechanism.",
+    "Null-kernel / shuffled-label adversarial audit only."
+  ],
+  "decision": "AUTHORIZE-STAGE17-DIAGNOSTIC-THEORY-MANUSCRIPT-ADVERSARIAL-GUARDS-PASSED: null-kernel/shuffled-label adversarial audit completed under diagnostic-only claim boundaries; guard_pass_count=5/5, main_amplitude_relation_guard_pass=True, class_label_separation_guard_pass=True. No dark-matter exclusion, no Lambda-CDM replacement, no MOND/RAR defeat, no Bullet-Cluster claim.",
+  "next_allowed": [
+    "Stage 17 diagnostic-theory manuscript update if adversarial guards are sufficient",
+    "Stage 16b stricter curve-level null refits if a reviewer requests stronger controls"
+  ]
+}

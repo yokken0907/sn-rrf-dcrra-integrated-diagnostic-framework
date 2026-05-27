@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the archived repository release and the integrated manuscript. The Zenodo identifier is a repository-archive DOI, not a standalone peer-reviewed article DOI."
+title: "Claim-Bounded Diagnostics for SPARC Galaxy Rotation-Curve Residuals: Scale-Normalized Residual-Response Family Tests and Null-Control Audits"
+version: "v2.0.1-claim-bounded-reader-guidance"
+date-released: "2026-05-25"
+authors:
+  - family-names: Yoshimura
+    given-names: Keiji
+    affiliation: Independent Researcher
+url: "https://github.com/yokken0907/a10-tvc-rrf-galaxy-residual-diagnostic"
+repository-code: "https://github.com/yokken0907/a10-tvc-rrf-galaxy-residual-diagnostic"
+license: "LicenseRef-Evaluation-Only"
+keywords:
+  - galaxy rotation curves
+  - SPARC
+  - residual response
+  - scale normalization
+  - SN-RRF
+  - A10/TVC-RRF
+  - diagnostic audit
+  - null controls
+  - claim boundary

@@ -1,0 +1,37 @@
+{
+  "thresholds": {
+    "n_points_q25": 11.5,
+    "n_points_q50": 17.0,
+    "n_points_q75": 28.5,
+    "gas_fraction_q25": 0.023476563082495898,
+    "gas_fraction_q75": 0.23871939409291684,
+    "outer_baryon_fraction_q25": 0.2577345069014782,
+    "outer_baryon_fraction_q75": 0.5677954830076033,
+    "v_max_q25": 79.0,
+    "v_max_q75": 203.5,
+    "v_outer_q25": 77.6,
+    "v_outer_q75": 180.5,
+    "median_err_fraction_q75": 0.0736473547348461,
+    "roughness_rms_diff_q75": 0.0476781466215225,
+    "kernel_curve_rmse_q75": 0.37703461449501896,
+    "failure_boundary_high_score_threshold": 4.0
+  },
+  "zones": [
+    "HALO_COMPARATOR_DOMINANT_ZONE",
+    "MIXED_THREE_WAY_COMPETITIVE_ZONE",
+    "NUISANCE_SENSITIVE_ZONE",
+    "PATHOLOGY_ARCHIVE_ZONE",
+    "RESPONSE_FAMILY_DOMINANT_ZONE",
+    "RESPONSE_FAMILY_WITH_NFW_COMPETITIVE_ZONE",
+    "UNRESOLVED_TRIANGULAR_ZONE"
+  ],
+  "pass_criteria": {
+    "min_sample": 40,
+    "zone_count_ge": 5,
+    "missing_zones_le": 2,
+    "zone_js_le": 0.25,
+    "response_shift_le": 0.2,
+    "aicc_overflex_shift_le": 0.25,
+    "high_failure_shift_le": 0.25
+  }
+}

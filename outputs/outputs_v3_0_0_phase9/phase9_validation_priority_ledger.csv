@@ -1,0 +1,7 @@
+priority_rank,priority,reason,unblocks,current_status
+1,Obtain non-SPARC radius-resolved component-curve table,External validation remains HOLD.,external residual-level validation branch,HOLD
+2,Comparator fairness with complexity-penalty reporting,Overflex-null dominance is AIC/AICc/BIC-sensitive.,safe comparator discussion,INTERNAL_REQUIRED
+3,Synthetic separability improvement or explicit no-go lock,Phase 8/8R remain FAIL_OR_NULL.,classifier-language boundary,FAILURE_BOUNDARY
+4,Proxy-stratified reporting,Phase 6 detects proxy/systematics structure.,less misleading population summaries,REQUIRED_FOR_MANUSCRIPT
+5,High-noise and low-point-count caution,Recovery and comparator behavior degrade by noise / quality proxies.,failure-boundary examples,REQUIRED_FOR_LEDGER
+6,Holdout qualifiers,Phase 7 supports frozen holdout robustness with boundary cautions.,bounded internal robustness claim,SUPPORTED_WITH_CAUTION

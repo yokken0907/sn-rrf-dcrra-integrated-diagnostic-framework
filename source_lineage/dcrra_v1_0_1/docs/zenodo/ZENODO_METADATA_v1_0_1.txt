@@ -1,0 +1,19 @@
+Zenodo metadata draft for v1.0.1-claim-bounded-reader-guidance
+
+Title:
+Claim-Bounded Diagnostics for Dark-Component-like SPARC Rotation-Curve Residuals: Residual-Regime Mapping, Comparator Audits, and Null-Control Checks
+
+Upload type:
+Software
+
+Version:
+v1.0.1-claim-bounded-reader-guidance
+
+Description:
+Claim-bounded diagnostic audit repository for dark-component-like residual structure in SPARC galaxy rotation-curve data. This repository archive is a residual-regime mapping and null-control package, not a claim of dark-matter exclusion, Lambda-CDM replacement, MOND/RAR falsification, NFW-halo falsification, Bullet-Cluster explanation, particle identity, Hubble-tension solution, or SN-RRF as a physical dark-matter substitute.
+
+Keywords:
+galaxy rotation curves; SPARC; dark-component-like residuals; residual-regime mapping; DCRRA; diagnostic audit; null controls; claim boundary
+
+DOI handling:
+Do not enter an existing Zenodo DOI as an external DOI. Select Zenodo DOI generation. The resulting DOI identifies the archived repository release, not a standalone peer-reviewed article DOI.

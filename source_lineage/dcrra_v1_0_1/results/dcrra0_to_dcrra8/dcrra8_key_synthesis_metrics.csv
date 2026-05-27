@@ -1,0 +1,13 @@
+metric,value
+valid_population_count,143.0
+map_zone_count,7.0
+response_family_zone_count,77.0
+nfw_comparator_zone_count,6.0
+mixed_zone_count,16.0
+pathology_or_nuisance_pass_through_count,42.0
+unresolved_zone_count,2.0
+max_zone_fraction,0.3776223776223776
+dcrra6_proxy_only_reconstruction_accuracy,0.3146853146853147
+dcrra6_proxy_only_reconstruction_balanced_accuracy,0.3287353347135956
+dcrra8_guard_pass_count,9.0
+dcrra8_guard_count,9.0

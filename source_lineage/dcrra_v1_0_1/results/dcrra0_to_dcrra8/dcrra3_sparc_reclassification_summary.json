@@ -1,0 +1,34 @@
+{
+  "stage": "DCRRA3-SPARC-RECLASSIFICATION-AUDIT",
+  "decision": "AUTHORIZE-DCRRA4-NFW-RAR-SN-RRF-TRIANGULAR-COMPARATOR",
+  "timestamp_utc": "2026-05-16T10:48:10Z",
+  "input_population_count": 143,
+  "reclassified_count": 143,
+  "dcrra2_stable_count": 106,
+  "dcrra2_stable_fraction": 0.7412587412587412,
+  "dcrra3_recommended_class_counts": {
+    "SN_RRF_FAMILY_LIKE": 45,
+    "NUISANCE_SENSITIVE": 30,
+    "MIXED_COMPETITIVE": 22,
+    "UNRESOLVED_OR_WEAK": 20,
+    "HALO_DOMINANT_LIKE": 13,
+    "PATHOLOGY_ARCHIVE": 12,
+    "RAR_ACCELERATION_LIKE": 1
+  },
+  "dcrra3_stability_counts": {
+    "STABLE": 106,
+    "CAUTION-RECLASSIFY": 19,
+    "WEAK-MISMATCH": 18
+  },
+  "next_stage": "DCRRA4-NFW-RAR-SN-RRF-TRIANGULAR-COMPARATOR",
+  "claim_boundary": [
+    "No dark-matter exclusion claim.",
+    "No Lambda-CDM replacement claim.",
+    "No MOND/RAR falsification claim.",
+    "No NFW-halo falsification claim.",
+    "No Bullet-Cluster explanation claim.",
+    "No particle-identity claim.",
+    "No Hubble-tension solution claim.",
+    "No SN-RRF as physical dark-matter substitute claim."
+  ]
+}

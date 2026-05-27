@@ -1,0 +1,46 @@
+{
+  "stage": "STAGE27-CURVE-NULL-SYNTHESIS",
+  "input_stage26_decision": "WEAK-AUTHORIZE-STAGE27-DESTRUCTIVE-NULLS-PASSED-NEIGHBOR-KERNELS-COMPETE",
+  "valid_population_count": 143,
+  "stage26_guard_pass_count": 5,
+  "stage26_guard_count": 5,
+  "destructive_null_result": {
+    "median_delta_aic_rrf_minus_best_destructive_null": -85.02147209054226,
+    "rrf_beats_best_destructive_null_fraction": 0.916083916083916,
+    "rrf_strongly_beats_best_destructive_null_fraction": 0.8391608391608392,
+    "robust_rrf_beats_best_destructive_null_fraction": 0.935064935064935
+  },
+  "neighbor_kernel_result": {
+    "median_delta_aic_rrf_minus_best_neighbor_null": 4.082307127320703,
+    "rrf_beats_best_neighbor_null_fraction": 0.1258741258741259,
+    "best_neighbor_null_counts": {
+      "saturating_n2": 67,
+      "saturating_n4": 26,
+      "saturating_n1": 16,
+      "saturating_n8": 12,
+      "arctan_saturating": 10,
+      "exp_saturating": 8,
+      "saturating_n6": 4
+    }
+  },
+  "best_destructive_null_counts": {
+    "shuffled_radius_rrf_nfixed": 85,
+    "outer_step_median": 54,
+    "constant_floor": 3,
+    "reversed_rrf_nfixed": 1
+  },
+  "locked_interpretation": "Curve-level destructive-null controls support a real radial-response shape signal, while neighboring monotone saturating kernels compete with the locked n=3.258993 representative. SN-RRF should therefore be stated as a scale-normalized residual-response family, not as a unique fixed-exponent law.",
+  "decision": "LOCK-STAGE27-CURVE-LEVEL-DESTRUCTIVE-NULLS-PASSED-SATURATING-FAMILY-NOT-UNIQUE",
+  "claim_boundary": [
+    "No dark-matter exclusion claim.",
+    "No Lambda-CDM replacement claim.",
+    "No MOND/RAR defeat claim.",
+    "No Bullet-Cluster explanation claim.",
+    "No physical proof of a TVC mechanism.",
+    "No Hubble-tension solution claim.",
+    "Curve-level null-refit diagnostic only.",
+    "No universal fixed-exponent law claim.",
+    "SN-RRF family diagnostic only."
+  ],
+  "next_stage": "Stage 28 kernel-family profile audit using per-kernel curve-level fit table, if available."
+}

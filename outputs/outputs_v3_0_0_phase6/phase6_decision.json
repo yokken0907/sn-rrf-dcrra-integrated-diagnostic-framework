@@ -1,0 +1,96 @@
+{
+  "status": "PASS-PHASE6-BARYONIC-SYSTEMATICS-PROXY-SENSITIVITY-AUDIT-RUN",
+  "version": "3.0.0-phase6-baryonic-systematics-proxy-sensitivity",
+  "feature_rows": 143,
+  "zone_count": 7,
+  "proxy_count_tested": 14,
+  "binary_outcome_count_tested": 7,
+  "strong_proxy_split_association_count": 5,
+  "top_associations": [
+    {
+      "proxy": "median_err_fraction",
+      "target": "median_err_fraction",
+      "association_type": "spearman_rank_correlation",
+      "score": 0.9999999999999998,
+      "n": 143,
+      "abs_score": 0.9999999999999998
+    },
+    {
+      "proxy": "roughness_rms_diff",
+      "target": "roughness_rms_diff",
+      "association_type": "spearman_rank_correlation",
+      "score": 0.9999999999999998,
+      "n": 143,
+      "abs_score": 0.9999999999999998
+    },
+    {
+      "proxy": "kernel_curve_corr",
+      "target": "kernel_curve_corr",
+      "association_type": "spearman_rank_correlation",
+      "score": 0.9999999999999998,
+      "n": 143,
+      "abs_score": 0.9999999999999998
+    },
+    {
+      "proxy": "kernel_curve_rmse",
+      "target": "kernel_curve_rmse",
+      "association_type": "spearman_rank_correlation",
+      "score": 0.9999999999999998,
+      "n": 143,
+      "abs_score": 0.9999999999999998
+    },
+    {
+      "proxy": "kernel_curve_rmse",
+      "target": "kernel_curve_corr",
+      "association_type": "spearman_rank_correlation",
+      "score": -0.624138185757904,
+      "n": 143,
+      "abs_score": 0.624138185757904
+    },
+    {
+      "proxy": "kernel_curve_corr",
+      "target": "kernel_curve_rmse",
+      "association_type": "spearman_rank_correlation",
+      "score": -0.624138185757904,
+      "n": 143,
+      "abs_score": 0.624138185757904
+    },
+    {
+      "proxy": "negative_residual_v2_fraction",
+      "target": "kernel_curve_rmse",
+      "association_type": "spearman_rank_correlation",
+      "score": 0.6193831464541134,
+      "n": 143,
+      "abs_score": 0.6193831464541134
+    },
+    {
+      "proxy": "outer_baryon_fraction_proxy",
+      "target": "kernel_curve_corr",
+      "association_type": "spearman_rank_correlation",
+      "score": -0.5976517613841557,
+      "n": 143,
+      "abs_score": 0.5976517613841557
+    },
+    {
+      "proxy": "v_outer_kms",
+      "target": "median_err_fraction",
+      "association_type": "spearman_rank_correlation",
+      "score": -0.5795127978387529,
+      "n": 143,
+      "abs_score": 0.5795127978387529
+    },
+    {
+      "proxy": "v_max_kms",
+      "target": "kernel_curve_rmse",
+      "association_type": "spearman_rank_correlation",
+      "score": 0.5782950572869081,
+      "n": 143,
+      "abs_score": 0.5782950572869081
+    }
+  ],
+  "median_failure_boundary_score": 3.0,
+  "high_risk_candidate_count_score_ge_4": 27,
+  "interpretation": "PROXY-SENSITIVITY-STRUCTURE-DETECTED",
+  "external_validation_status": "HOLD_NON_SPARC_COMPONENT_CURVE_TABLE_NOT_AVAILABLE",
+  "claim_boundary": "Internal SPARC proxy/systematics sensitivity audit only; not external residual-level validation and not physical model selection evidence."
+}

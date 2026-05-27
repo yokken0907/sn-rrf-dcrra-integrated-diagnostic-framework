@@ -1,0 +1,37 @@
+{
+  "title": "Claim-Bounded Diagnostics for Dark-Component-like SPARC Rotation-Curve Residuals: Residual-Regime Mapping, Comparator Audits, and Null-Control Checks",
+  "upload_type": "software",
+  "publication_date": "2026-05-25",
+  "creators": [
+    {
+      "name": "Yoshimura, Keiji",
+      "affiliation": "Independent Researcher"
+    }
+  ],
+  "description": "Claim-bounded diagnostic audit repository for dark-component-like residual structure in SPARC galaxy rotation-curve data. This repository archive is a residual-regime mapping and null-control package, not a claim of dark-matter exclusion, Lambda-CDM replacement, MOND/RAR falsification, NFW-halo falsification, Bullet-Cluster explanation, particle identity, Hubble-tension solution, or SN-RRF as a physical dark-matter substitute.",
+  "access_right": "open",
+  "license": "other-open",
+  "keywords": [
+    "galaxy rotation curves",
+    "SPARC",
+    "dark-component-like residuals",
+    "residual-regime mapping",
+    "DCRRA",
+    "diagnostic audit",
+    "null controls",
+    "claim boundary"
+  ],
+  "version": "v1.0.1-claim-bounded-reader-guidance",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/yokken0907/dark-component-residual-response-audit",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "10.5281/zenodo.20233908",
+      "relation": "isNewVersionOf",
+      "scheme": "doi"
+    }
+  ]
+}

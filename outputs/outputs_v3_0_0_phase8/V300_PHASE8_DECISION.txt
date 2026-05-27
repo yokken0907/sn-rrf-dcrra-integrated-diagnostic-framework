@@ -1,0 +1,15 @@
+FAIL_OR_NULL-PHASE8-INJECTION-RECOVERY-NULL-TESTS-LOCKED-WITH-CLAIM-BOUNDARY
+interpretation: INJECTION-RECOVERY-NOT-SUFFICIENTLY-SUPPORTED
+feature_rows: 143
+shape_grid_rows: 5720
+galaxy_count: 143
+synthetic_case_count: 2574
+overall_recovery_rate: 0.566434
+balanced_accuracy: 0.566434
+min_class_recall: 0.333333
+high_noise_recovery_rate: 0.403263
+false_response_family_rate: 0.072261
+false_halo_like_rate: 0.113753
+guards_passed: 2/6
+external_validation: HOLD_NON_SPARC_COMPONENT_CURVE_TABLE_NOT_AVAILABLE
+claim_boundary: synthetic internal protocol control only; no physical promotion.

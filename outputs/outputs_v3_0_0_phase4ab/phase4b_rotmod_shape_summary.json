@@ -1,0 +1,25 @@
+{
+  "phase": "4B",
+  "status": "PASS-PHASE4B-SPARC-ROTMOD-FUNCTIONAL-RESIDUAL-SHAPE-AUDIT-RUN",
+  "rotmod_dir": "/home/kei/a10_projects/a10-galaxy-residual-response-diagnostics/data_external/sparc_public_rotmod/Rotmod_LTG",
+  "rotmod_file_count": 175,
+  "feature_rows": 143,
+  "matched_rotmod_count": 143,
+  "missing_rotmod_count": 0,
+  "missing_rotmod_galaxies": [],
+  "s_grid_count": 40,
+  "residual_curve_model": "unit_ML_signed_gas_reduced_v2_residual_proxy",
+  "pca_explained_variance_ratio": [
+    0.8275740645438672,
+    0.12010211973249599
+  ],
+  "pc1_zone_eta_squared": 0.32844244490890967,
+  "pc2_zone_eta_squared": 0.0655966822463429,
+  "phase4b_kmeans_cluster_count": 7,
+  "phase4b_adjusted_rand_index": 0.09719067206410471,
+  "phase4b_adjusted_mutual_info": 0.09396152183066582,
+  "phase4b_normalized_mutual_info": 0.15976847413872675,
+  "phase4b_silhouette_score": 0.3490446095911128,
+  "external_validation_status": "HOLD_NON_SPARC_COMPONENT_CURVE_TABLE_NOT_AVAILABLE",
+  "claim_boundary": "SPARC-internal diagnostic residual-shape audit only; no non-SPARC external validation claim."
+}

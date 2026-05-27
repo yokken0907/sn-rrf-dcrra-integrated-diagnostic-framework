@@ -1,0 +1,13 @@
+PASS-SN-RRF-DCRRA-v3.0.0-PHASE0-3-INTERNAL-DEEPENING-LOCKED
+
+Decision:
+  PASS internal feature-table construction, diagnostic feature-space audit, and provisional regime-transition adjacency construction.
+
+External residual-level validation:
+  HOLD. No non-SPARC radius-resolved baryonic component-curve table is bundled or accepted in this package.
+
+Allowed interpretation:
+  A claim-bounded SPARC-internal diagnostic feature-space and residual-regime transition audit.
+
+Not claimed:
+  No dark-matter exclusion; no Lambda-CDM replacement; no MOND/RAR falsification; no NFW-halo falsification; no new physical law; no external-complete validation.

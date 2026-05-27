@@ -1,0 +1,17 @@
+{
+  "stage": "DCRRA0-SCOPE-LOCK",
+  "decision": "LOCK-DCRRA0-SCOPE-AND-CLAIM-BOUNDARY-DIAGNOSTIC-ONLY",
+  "timestamp_utc": "2026-05-16T10:37:50Z",
+  "allowed_scope": "diagnostic taxonomy/audit of dark-component-like galaxy-scale residuals",
+  "forbidden_claims": [
+    "NO-DARK-MATTER-EXCLUSION",
+    "NO-LAMBDA-CDM-REPLACEMENT",
+    "NO-MOND-RAR-FALSIFICATION",
+    "NO-NFW-HALO-FALSIFICATION",
+    "NO-BULLET-CLUSTER-EXPLANATION",
+    "NO-PARTICLE-IDENTITY-CLAIM",
+    "NO-HUBBLE-TENSION-SOLUTION",
+    "NO-SN-RRF-AS-PHYSICAL-DARK-MATTER-SUBSTITUTE"
+  ],
+  "next_stage": "DCRRA1-SN-RRF-PARENT-RESULT-IMPORT"
+}

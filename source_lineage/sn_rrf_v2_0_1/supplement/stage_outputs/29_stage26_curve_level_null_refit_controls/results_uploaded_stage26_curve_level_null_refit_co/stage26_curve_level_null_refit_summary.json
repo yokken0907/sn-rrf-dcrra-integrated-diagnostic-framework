@@ -1,0 +1,54 @@
+{
+  "stage": "STAGE26-CURVE-LEVEL-NULL-REFIT-CONTROLS",
+  "valid_population_count": 143,
+  "input_population_count": 143,
+  "missing_or_unreadable_count": 0,
+  "fixed_n": 3.258993,
+  "fixed_ups_d": 0.5,
+  "fixed_ups_b": 0.7,
+  "fit_space": "squared_velocity_residual_weighted_least_squares",
+  "locked_kernel": "locked_rrf_nfixed",
+  "destructive_nulls": [
+    "constant_floor",
+    "outer_step_median",
+    "reversed_rrf_nfixed",
+    "shuffled_radius_rrf_nfixed"
+  ],
+  "neighbor_nulls": [
+    "arctan_saturating",
+    "exp_saturating",
+    "saturating_n1",
+    "saturating_n2",
+    "saturating_n4",
+    "saturating_n6",
+    "saturating_n8"
+  ],
+  "main_results": {
+    "median_delta_aic_rrf_minus_best_destructive_null": -85.02147209054226,
+    "rrf_beats_best_destructive_null_fraction": 0.916083916083916,
+    "rrf_strongly_beats_best_destructive_null_fraction": 0.8391608391608392,
+    "robust_rrf_beats_best_destructive_null_fraction": 0.935064935064935,
+    "median_delta_aic_rrf_minus_best_neighbor_null": 4.082307127320703,
+    "rrf_beats_best_neighbor_null_fraction": 0.1258741258741259
+  },
+  "guards": {
+    "valid_population_count_ge_100": 1,
+    "rrf_beats_best_destructive_null_fraction_ge_0_70": 1,
+    "median_delta_aic_rrf_minus_best_destructive_null_le_minus_10": 1,
+    "robust_rrf_beats_best_destructive_null_fraction_ge_0_75": 1,
+    "rotmod_missing_fraction_le_0_10": 1
+  },
+  "guard_pass_count": 5,
+  "guard_count": 5,
+  "decision": "WEAK-AUTHORIZE-STAGE27-DESTRUCTIVE-NULLS-PASSED-NEIGHBOR-KERNELS-COMPETE",
+  "claim_boundary": [
+    "No dark-matter exclusion claim.",
+    "No Lambda-CDM replacement claim.",
+    "No MOND/RAR defeat claim.",
+    "No Bullet-Cluster explanation claim.",
+    "No physical proof of a TVC mechanism.",
+    "No Hubble-tension solution claim.",
+    "Curve-level null-refit diagnostic only.",
+    "No universal fixed-exponent law claim."
+  ]
+}

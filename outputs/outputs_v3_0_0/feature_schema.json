@@ -1,0 +1,127 @@
+{
+  "row_count": 143,
+  "galaxy_id_column": "galaxy",
+  "zone_column": "dcrra7_residual_map_zone",
+  "numeric_features_used_for_pca": [
+    "best_n",
+    "rrf_rc_over_rlast",
+    "rrf_A_over_vouter2",
+    "v_outer_kms",
+    "v_max_kms",
+    "gas_fraction_proxy",
+    "outer_baryon_fraction_proxy",
+    "n_points",
+    "estimated_family_delta_aic_minus_nfw_like",
+    "estimated_family_delta_aic_minus_rar_like",
+    "nearest_centroid_margin",
+    "delta_aic_locked_minus_best_continuum",
+    "grid_count_within_10_of_best",
+    "delta_aic_rrf_minus_best_destructive_null",
+    "delta_aic_rrf_minus_best_neighbor_null"
+  ],
+  "feature_robust_scaling_stats": {
+    "best_n": {
+      "median": 2.25,
+      "q1": 1.5,
+      "q3": 3.2544965,
+      "iqr": 1.7544965000000001
+    },
+    "rrf_rc_over_rlast": {
+      "median": 0.3135420143107699,
+      "q1": 0.18864283452935482,
+      "q3": 0.4769888874579017,
+      "iqr": 0.28834605292854687
+    },
+    "rrf_A_over_vouter2": {
+      "median": 0.762686372163753,
+      "q1": 0.6545520325537096,
+      "q3": 0.8560158299238106,
+      "iqr": 0.201463797370101
+    },
+    "v_outer_kms": {
+      "median": 110.5011312159292,
+      "q1": 77.6,
+      "q3": 180.5,
+      "iqr": 102.9
+    },
+    "v_max_kms": {
+      "median": 114.0,
+      "q1": 79.0,
+      "q3": 203.5,
+      "iqr": 124.5
+    },
+    "gas_fraction_proxy": {
+      "median": 0.0826615559827784,
+      "q1": 0.023476563082495898,
+      "q3": 0.23871939409291684,
+      "iqr": 0.21524283101042094
+    },
+    "outer_baryon_fraction_proxy": {
+      "median": 0.365938415666359,
+      "q1": 0.2577345069014782,
+      "q3": 0.5677954830076033,
+      "iqr": 0.3100609761061251
+    },
+    "n_points": {
+      "median": 17.0,
+      "q1": 11.5,
+      "q3": 28.5,
+      "iqr": 17.0
+    },
+    "estimated_family_delta_aic_minus_nfw_like": {
+      "median": -11.84606598940119,
+      "q1": -35.079612202587015,
+      "q3": -2.8039097078941584,
+      "iqr": 32.27570249469286
+    },
+    "estimated_family_delta_aic_minus_rar_like": {
+      "median": -48.22978766745116,
+      "q1": -161.97582508790805,
+      "q3": -13.210624390658408,
+      "iqr": 148.76520069724964
+    },
+    "nearest_centroid_margin": {
+      "median": 0.4246468342441174,
+      "q1": 0.16321467761741545,
+      "q3": 0.7725664898476455,
+      "iqr": 0.60935181223023
+    },
+    "delta_aic_locked_minus_best_continuum": {
+      "median": 6.292381145415192,
+      "q1": 1.3131289658330587,
+      "q3": 19.02336478203144,
+      "iqr": 17.71023581619838
+    },
+    "grid_count_within_10_of_best": {
+      "median": 14.0,
+      "q1": 6.5,
+      "q3": 30.0,
+      "iqr": 23.5
+    },
+    "delta_aic_rrf_minus_best_destructive_null": {
+      "median": -85.02147209054226,
+      "q1": -280.3968208468095,
+      "q3": -24.076900106614637,
+      "iqr": 256.31992074019485
+    },
+    "delta_aic_rrf_minus_best_neighbor_null": {
+      "median": 4.082307127320703,
+      "q1": 0.68011242691817,
+      "q3": 17.66178141123119,
+      "iqr": 16.981668984313018
+    }
+  },
+  "claim_boundary": {
+    "allowed": "SPARC-internal residual-regime feature-space diagnostics only.",
+    "not_claimed": [
+      "dark-matter exclusion",
+      "Lambda-CDM replacement",
+      "MOND/RAR falsification",
+      "NFW-halo falsification",
+      "new physical law discovery",
+      "external residual-level validation",
+      "universal exponent or physical constant"
+    ]
+  },
+  "external_validation_status": "HOLD: no non-SPARC radius-resolved baryonic component-curve table bundled or tested"
+}

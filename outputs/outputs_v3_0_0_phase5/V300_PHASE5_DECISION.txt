@@ -1,0 +1,6 @@
+PASS-PHASE5-EXPANDED-COMPARATOR-AUDIT-RUN
+feature_rows=143
+matched_rotmod_count=143
+missing_rotmod_count=0
+comparator_count=9
+external_validation=HOLD

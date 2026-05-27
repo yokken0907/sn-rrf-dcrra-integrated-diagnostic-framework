@@ -1,0 +1,12 @@
+PASS-PHASE5R-OVERFLEX-NULL-FAIRNESS-AUDIT-RUN
+interpretation: OVERFLEX-DOMINANCE-SENSITIVE-TO-COMPLEXITY-PENALTY
+feature_rows: 143
+existing_comparator_score_rows: 1287
+degree_sweep_score_rows: 858
+phase5_prior_overflex_winner_fraction: 0.860139860140
+existing_aicc_overflex_fraction: 0.468531468531
+existing_bic_overflex_fraction: 0.678321678322
+poly_degree_sweep_aicc_poly5_fraction: 0.146853146853
+poly_degree_sweep_bic_poly5_fraction: 0.160839160839
+external_validation: HOLD_NON_SPARC_COMPONENT_CURVE_TABLE_NOT_AVAILABLE
+claim_boundary: INTERNAL-SPARC-COMPLEXITY-PENALTY-AUDIT-ONLY; NO-PHYSICAL-MODEL-SELECTION-CLAIM

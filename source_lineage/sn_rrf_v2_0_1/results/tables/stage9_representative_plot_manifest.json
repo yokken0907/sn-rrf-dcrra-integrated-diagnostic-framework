@@ -1,0 +1,162 @@
+{
+  "summary": {
+    "stage": "STAGE9-REPRESENTATIVE-RESIDUAL-PANEL-AUDIT",
+    "regime": "broad_free",
+    "plot_count": 15,
+    "manifest_count": 15,
+    "claim_boundary": "diagnostic representative residual-panel audit only",
+    "decision": "STAGE9-PLOTS-GENERATED-DIAGNOSTIC-ONLY"
+  },
+  "rows": [
+    {
+      "galaxy": "NGC3198",
+      "stage8_class": "BARYONIC-ONLY-IMPROVEMENT-NFW-DOMINANT",
+      "regime": "broad_free",
+      "status": "plotted",
+      "figure_path": "10_stage9_representative_residual_panel_audit/results/stage9_representative_panels/figures/BARYONIC-ONLY-IMPROVEMENT-NFW-DOMINANT__NGC3198__broad_free.png",
+      "selection_rule": "median-proximal within class by broad_free DeltaAIC(TVC-NFW)",
+      "broad_delta_aic_tvc_minus_baryonic_fit": -9806.095167806527,
+      "broad_delta_aic_tvc_minus_nfw_like": 20.36332958057023
+    },
+    {
+      "galaxy": "UGC12506",
+      "stage8_class": "BARYONIC-ONLY-IMPROVEMENT-NFW-DOMINANT",
+      "regime": "broad_free",
+      "status": "plotted",
+      "figure_path": "10_stage9_representative_residual_panel_audit/results/stage9_representative_panels/figures/BARYONIC-ONLY-IMPROVEMENT-NFW-DOMINANT__UGC12506__broad_free.png",
+      "selection_rule": "median-proximal within class by broad_free DeltaAIC(TVC-NFW)",
+      "broad_delta_aic_tvc_minus_baryonic_fit": -98.6898174026708,
+      "broad_delta_aic_tvc_minus_nfw_like": 24.532625826012136
+    },
+    {
+      "galaxy": "UGC00191",
+      "stage8_class": "BARYONIC-ONLY-IMPROVEMENT-NFW-DOMINANT",
+      "regime": "broad_free",
+      "status": "plotted",
+      "figure_path": "10_stage9_representative_residual_panel_audit/results/stage9_representative_panels/figures/BARYONIC-ONLY-IMPROVEMENT-NFW-DOMINANT__UGC00191__broad_free.png",
+      "selection_rule": "median-proximal within class by broad_free DeltaAIC(TVC-NFW)",
+      "broad_delta_aic_tvc_minus_baryonic_fit": -1734.9266558517184,
+      "broad_delta_aic_tvc_minus_nfw_like": 19.098168595960594
+    },
+    {
+      "galaxy": "F583-4",
+      "stage8_class": "CORE-PATHOLOGY-ARCHIVE",
+      "regime": "broad_free",
+      "status": "plotted",
+      "figure_path": "10_stage9_representative_residual_panel_audit/results/stage9_representative_panels/figures/CORE-PATHOLOGY-ARCHIVE__F583-4__broad_free.png",
+      "selection_rule": "median-proximal within class by broad_free DeltaAIC(TVC-NFW)",
+      "broad_delta_aic_tvc_minus_baryonic_fit": -19.272613527848904,
+      "broad_delta_aic_tvc_minus_nfw_like": 0.005467035971220113
+    },
+    {
+      "galaxy": "UGC07577",
+      "stage8_class": "CORE-PATHOLOGY-ARCHIVE",
+      "regime": "broad_free",
+      "status": "plotted",
+      "figure_path": "10_stage9_representative_residual_panel_audit/results/stage9_representative_panels/figures/CORE-PATHOLOGY-ARCHIVE__UGC07577__broad_free.png",
+      "selection_rule": "median-proximal within class by broad_free DeltaAIC(TVC-NFW)",
+      "broad_delta_aic_tvc_minus_baryonic_fit": 2.4534442498623923,
+      "broad_delta_aic_tvc_minus_nfw_like": 0.08502859678507058
+    },
+    {
+      "galaxy": "UGC06973",
+      "stage8_class": "CORE-PATHOLOGY-ARCHIVE",
+      "regime": "broad_free",
+      "status": "plotted",
+      "figure_path": "10_stage9_representative_residual_panel_audit/results/stage9_representative_panels/figures/CORE-PATHOLOGY-ARCHIVE__UGC06973__broad_free.png",
+      "selection_rule": "median-proximal within class by broad_free DeltaAIC(TVC-NFW)",
+      "broad_delta_aic_tvc_minus_baryonic_fit": -457.2822620636786,
+      "broad_delta_aic_tvc_minus_nfw_like": 3.800836258969186
+    },
+    {
+      "galaxy": "UGC06667",
+      "stage8_class": "NUISANCE-SENSITIVE-DIAGNOSTIC-SIGNAL",
+      "regime": "broad_free",
+      "status": "plotted",
+      "figure_path": "10_stage9_representative_residual_panel_audit/results/stage9_representative_panels/figures/NUISANCE-SENSITIVE-DIAGNOSTIC-SIGNAL__UGC06667__broad_free.png",
+      "selection_rule": "median-proximal within class by broad_free DeltaAIC(TVC-NFW)",
+      "broad_delta_aic_tvc_minus_baryonic_fit": -1310.1361936287885,
+      "broad_delta_aic_tvc_minus_nfw_like": -0.9663932012934318
+    },
+    {
+      "galaxy": "UGC12632",
+      "stage8_class": "NUISANCE-SENSITIVE-DIAGNOSTIC-SIGNAL",
+      "regime": "broad_free",
+      "status": "plotted",
+      "figure_path": "10_stage9_representative_residual_panel_audit/results/stage9_representative_panels/figures/NUISANCE-SENSITIVE-DIAGNOSTIC-SIGNAL__UGC12632__broad_free.png",
+      "selection_rule": "median-proximal within class by broad_free DeltaAIC(TVC-NFW)",
+      "broad_delta_aic_tvc_minus_baryonic_fit": -588.7177215064172,
+      "broad_delta_aic_tvc_minus_nfw_like": -0.816870399449936
+    },
+    {
+      "galaxy": "UGCA442",
+      "stage8_class": "NUISANCE-SENSITIVE-DIAGNOSTIC-SIGNAL",
+      "regime": "broad_free",
+      "status": "plotted",
+      "figure_path": "10_stage9_representative_residual_panel_audit/results/stage9_representative_panels/figures/NUISANCE-SENSITIVE-DIAGNOSTIC-SIGNAL__UGCA442__broad_free.png",
+      "selection_rule": "median-proximal within class by broad_free DeltaAIC(TVC-NFW)",
+      "broad_delta_aic_tvc_minus_baryonic_fit": -3295.399637368749,
+      "broad_delta_aic_tvc_minus_nfw_like": -0.08235889860108614
+    },
+    {
+      "galaxy": "UGC04325",
+      "stage8_class": "ROBUST-DIAGNOSTIC-CANDIDATE",
+      "regime": "broad_free",
+      "status": "plotted",
+      "figure_path": "10_stage9_representative_residual_panel_audit/results/stage9_representative_panels/figures/ROBUST-DIAGNOSTIC-CANDIDATE__UGC04325__broad_free.png",
+      "selection_rule": "median-proximal within class by broad_free DeltaAIC(TVC-NFW)",
+      "broad_delta_aic_tvc_minus_baryonic_fit": -310.3763932257831,
+      "broad_delta_aic_tvc_minus_nfw_like": -8.782030189551147
+    },
+    {
+      "galaxy": "UGC11557",
+      "stage8_class": "ROBUST-DIAGNOSTIC-CANDIDATE",
+      "regime": "broad_free",
+      "status": "plotted",
+      "figure_path": "10_stage9_representative_residual_panel_audit/results/stage9_representative_panels/figures/ROBUST-DIAGNOSTIC-CANDIDATE__UGC11557__broad_free.png",
+      "selection_rule": "median-proximal within class by broad_free DeltaAIC(TVC-NFW)",
+      "broad_delta_aic_tvc_minus_baryonic_fit": -14.157521263908311,
+      "broad_delta_aic_tvc_minus_nfw_like": -8.48866187910269
+    },
+    {
+      "galaxy": "NGC2955",
+      "stage8_class": "ROBUST-DIAGNOSTIC-CANDIDATE",
+      "regime": "broad_free",
+      "status": "plotted",
+      "figure_path": "10_stage9_representative_residual_panel_audit/results/stage9_representative_panels/figures/ROBUST-DIAGNOSTIC-CANDIDATE__NGC2955__broad_free.png",
+      "selection_rule": "median-proximal within class by broad_free DeltaAIC(TVC-NFW)",
+      "broad_delta_aic_tvc_minus_baryonic_fit": -164.37892095256245,
+      "broad_delta_aic_tvc_minus_nfw_like": -8.302928203728271
+    },
+    {
+      "galaxy": "UGC07399",
+      "stage8_class": "WEAK-OR-REGIME-DEPENDENT-SIGNAL",
+      "regime": "broad_free",
+      "status": "plotted",
+      "figure_path": "10_stage9_representative_residual_panel_audit/results/stage9_representative_panels/figures/WEAK-OR-REGIME-DEPENDENT-SIGNAL__UGC07399__broad_free.png",
+      "selection_rule": "median-proximal within class by broad_free DeltaAIC(TVC-NFW)",
+      "broad_delta_aic_tvc_minus_baryonic_fit": -1297.7694370039244,
+      "broad_delta_aic_tvc_minus_nfw_like": 0.9256765697956428
+    },
+    {
+      "galaxy": "NGC4214",
+      "stage8_class": "WEAK-OR-REGIME-DEPENDENT-SIGNAL",
+      "regime": "broad_free",
+      "status": "plotted",
+      "figure_path": "10_stage9_representative_residual_panel_audit/results/stage9_representative_panels/figures/WEAK-OR-REGIME-DEPENDENT-SIGNAL__NGC4214__broad_free.png",
+      "selection_rule": "median-proximal within class by broad_free DeltaAIC(TVC-NFW)",
+      "broad_delta_aic_tvc_minus_baryonic_fit": -123.53044712112603,
+      "broad_delta_aic_tvc_minus_nfw_like": 0.9514039515464816
+    },
+    {
+      "galaxy": "NGC5005",
+      "stage8_class": "WEAK-OR-REGIME-DEPENDENT-SIGNAL",
+      "regime": "broad_free",
+      "status": "plotted",
+      "figure_path": "10_stage9_representative_residual_panel_audit/results/stage9_representative_panels/figures/WEAK-OR-REGIME-DEPENDENT-SIGNAL__NGC5005__broad_free.png",
+      "selection_rule": "median-proximal within class by broad_free DeltaAIC(TVC-NFW)",
+      "broad_delta_aic_tvc_minus_baryonic_fit": -2.1193977695653015,
+      "broad_delta_aic_tvc_minus_nfw_like": 0.05815270437220654
+    }
+  ]
+}

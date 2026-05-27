@@ -1,0 +1,29 @@
+{
+  "package": "sn-rrf-claim-bounded-project-visual-orientation",
+  "version": "v2.0.1-claim-bounded-reader-guidance",
+  "generated_utc": "2026-05-25T07:16:28Z",
+  "recommended_repository_path": "docs/project_visual_orientation/",
+  "claim_boundary": "visual orientation only; not validation, proof, or article DOI",
+  "files": [
+    {
+      "path": "docs/project_visual_orientation/INSTALL_NOTE.md",
+      "size_bytes": 204,
+      "sha256": "f54fb30e2b637bd488a709998c0a5abba6fe2160d538b31b253324820475ff3d"
+    },
+    {
+      "path": "docs/project_visual_orientation/PROJECT_VISUAL_ORIENTATION_SCOPE.md",
+      "size_bytes": 794,
+      "sha256": "d2e16097c6544ef41d83d33b47daa6b07f118305000e525372afc1e585fe32d2"
+    },
+    {
+      "path": "docs/project_visual_orientation/README_PROJECT_VISUAL_ORIENTATION.md",
+      "size_bytes": 433,
+      "sha256": "09b4539942693446d5b95a14b62e697b4e3e45a867ce9823a016a6442b231824"
+    },
+    {
+      "path": "docs/project_visual_orientation/index.html",
+      "size_bytes": 12082,
+      "sha256": "3978dfc93081b34253e6ff1654f59f0def324b06b261bbcdd2291e4e1f40231f"
+    }
+  ]
+}

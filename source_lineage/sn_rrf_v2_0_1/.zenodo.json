@@ -1,0 +1,34 @@
+{
+  "title": "Claim-Bounded Diagnostics for SPARC Galaxy Rotation-Curve Residuals: Scale-Normalized Residual-Response Family Tests and Null-Control Audits",
+  "upload_type": "software",
+  "description": "Claim-bounded repository package for a diagnostic audit of scale-normalized residual-response family tests in SPARC galaxy rotation-curve residuals. The package is a reduced diagnostic/reproducibility artifact and does not claim dark-matter exclusion, Lambda-CDM replacement, MOND/RAR falsification, a physical TVC mechanism, or a Hubble-tension solution. The Zenodo identifier generated for this record should be interpreted as a repository-archive DOI, not as a standalone peer-reviewed article DOI.",
+  "creators": [
+    {
+      "name": "Yoshimura, Keiji",
+      "affiliation": "Independent Researcher"
+    }
+  ],
+  "version": "v2.0.1-claim-bounded-reader-guidance",
+  "publication_date": "2026-05-25",
+  "keywords": [
+    "galaxy rotation curves",
+    "SPARC",
+    "residual response",
+    "SN-RRF",
+    "A10/TVC-RRF",
+    "diagnostic audit",
+    "claim boundary"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/yokken0907/a10-tvc-rrf-galaxy-residual-diagnostic",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "10.5281/zenodo.20224479",
+      "relation": "isNewVersionOf",
+      "scheme": "doi"
+    }
+  ]
+}

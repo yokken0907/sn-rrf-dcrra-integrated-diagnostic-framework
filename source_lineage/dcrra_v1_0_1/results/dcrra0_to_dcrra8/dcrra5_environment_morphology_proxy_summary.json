@@ -1,0 +1,118 @@
+{
+  "stage": "DCRRA5-ENVIRONMENT-MORPHOLOGY-PROXY-AUDIT",
+  "decision": "AUTHORIZE-DCRRA6-DESTRUCTIVE-CONSTRUCTIVE-NULL-AUDIT",
+  "timestamp_utc": "2026-05-16T10:53:32Z",
+  "input_population_count": 143,
+  "proxy_count": 8,
+  "binning_success_count": 8,
+  "significant_proxy_count_p_le_0_05": 6,
+  "moderate_proxy_count_cramers_v_ge_0_25": 8,
+  "strongest_proxy_by_cramers_v": "n_points",
+  "max_cramers_v": 0.39654525473290136,
+  "top_proxy_associations": [
+    {
+      "proxy": "n_points",
+      "valid_n": 143,
+      "bin_count": 3,
+      "class_count": 7,
+      "cramers_v_class_association": 0.39654525473290136,
+      "permutation_p_value": 0.001,
+      "association_flag": 1,
+      "moderate_association_flag": 1
+    },
+    {
+      "proxy": "outer_baryon_fraction_proxy",
+      "valid_n": 143,
+      "bin_count": 3,
+      "class_count": 7,
+      "cramers_v_class_association": 0.3773239713351305,
+      "permutation_p_value": 0.001,
+      "association_flag": 1,
+      "moderate_association_flag": 1
+    },
+    {
+      "proxy": "gas_fraction_proxy",
+      "valid_n": 143,
+      "bin_count": 3,
+      "class_count": 7,
+      "cramers_v_class_association": 0.3686204724980125,
+      "permutation_p_value": 0.001,
+      "association_flag": 1,
+      "moderate_association_flag": 1
+    },
+    {
+      "proxy": "best_n",
+      "valid_n": 143,
+      "bin_count": 3,
+      "class_count": 7,
+      "cramers_v_class_association": 0.36198938064703134,
+      "permutation_p_value": 0.001,
+      "association_flag": 1,
+      "moderate_association_flag": 1
+    },
+    {
+      "proxy": "rrf_rc_over_rlast",
+      "valid_n": 143,
+      "bin_count": 3,
+      "class_count": 7,
+      "cramers_v_class_association": 0.2981933723939605,
+      "permutation_p_value": 0.008,
+      "association_flag": 1,
+      "moderate_association_flag": 1
+    },
+    {
+      "proxy": "rrf_A_over_vouter2",
+      "valid_n": 143,
+      "bin_count": 3,
+      "class_count": 7,
+      "cramers_v_class_association": 0.26828215370275016,
+      "permutation_p_value": 0.044,
+      "association_flag": 1,
+      "moderate_association_flag": 1
+    },
+    {
+      "proxy": "v_max_kms",
+      "valid_n": 143,
+      "bin_count": 3,
+      "class_count": 7,
+      "cramers_v_class_association": 0.2607735032520444,
+      "permutation_p_value": 0.075,
+      "association_flag": 0,
+      "moderate_association_flag": 1
+    },
+    {
+      "proxy": "v_outer_kms",
+      "valid_n": 143,
+      "bin_count": 3,
+      "class_count": 7,
+      "cramers_v_class_association": 0.2592621950148625,
+      "permutation_p_value": 0.075,
+      "association_flag": 0,
+      "moderate_association_flag": 1
+    }
+  ],
+  "guards": {
+    "valid_population_count_eq_143": 1,
+    "proxy_count_ge_6": 1,
+    "binning_success_count_ge_6": 1,
+    "significant_proxy_count_ge_3": 1,
+    "moderate_proxy_count_ge_4": 1,
+    "class_count_ge_5": 1,
+    "claim_boundary_preserved": 1
+  },
+  "guard_pass_count": 7,
+  "guard_count": 7,
+  "interpretation": "DCRRA4 residual-regime classes exhibit diagnostic association with environment/morphology/fit proxies. Associations are not causal physical classifications and do not imply dark-matter exclusion or NFW/RAR falsification.",
+  "next_stage": "DCRRA6-DESTRUCTIVE-CONSTRUCTIVE-NULL-AUDIT",
+  "claim_boundary": [
+    "No dark-matter exclusion claim.",
+    "No Lambda-CDM replacement claim.",
+    "No MOND/RAR falsification claim.",
+    "No NFW-halo falsification claim.",
+    "No Bullet-Cluster explanation claim.",
+    "No particle-identity claim.",
+    "No Hubble-tension solution claim.",
+    "No SN-RRF as physical dark-matter substitute claim.",
+    "Environment/morphology proxy associations are diagnostic only, not causal physical classifications."
+  ]
+}

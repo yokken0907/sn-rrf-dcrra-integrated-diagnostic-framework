@@ -1,0 +1,104 @@
+{
+  "phase": "v3.0.0 Phase 0-3 internal-deepening",
+  "decision": "PASS-INTERNAL-FEATURE-SPACE-AUDIT; EXTERNAL-RESIDUAL-VALIDATION-HOLD",
+  "row_count": 143,
+  "zone_count": 7,
+  "pca_features_used": [
+    "best_n",
+    "rrf_rc_over_rlast",
+    "rrf_A_over_vouter2",
+    "v_outer_kms",
+    "v_max_kms",
+    "gas_fraction_proxy",
+    "outer_baryon_fraction_proxy",
+    "n_points",
+    "estimated_family_delta_aic_minus_nfw_like",
+    "estimated_family_delta_aic_minus_rar_like",
+    "nearest_centroid_margin",
+    "delta_aic_locked_minus_best_continuum",
+    "grid_count_within_10_of_best",
+    "delta_aic_rrf_minus_best_destructive_null",
+    "delta_aic_rrf_minus_best_neighbor_null"
+  ],
+  "pca_explained_variance_ratio_first3": [
+    0.9713292029565344,
+    0.028585768640483636,
+    7.342942336535019e-05
+  ],
+  "zone_counts": {
+    "RESPONSE_FAMILY_DOMINANT_ZONE": 54,
+    "NUISANCE_SENSITIVE_ZONE": 30,
+    "RESPONSE_FAMILY_WITH_NFW_COMPETITIVE_ZONE": 23,
+    "MIXED_THREE_WAY_COMPETITIVE_ZONE": 16,
+    "PATHOLOGY_ARCHIVE_ZONE": 12,
+    "HALO_COMPARATOR_DOMINANT_ZONE": 6,
+    "UNRESOLVED_TRIANGULAR_ZONE": 2
+  },
+  "separation_diagnostic": {
+    "median_own_centroid_distance_pc12": 0.931505431314265,
+    "median_nearest_other_centroid_distance_pc12": 0.5940227089589863,
+    "centroid_margin_median_other_minus_own": -0.30711152200169767,
+    "fraction_closer_to_own_centroid_than_other": 0.26573426573426573
+  },
+  "top_transition_edges": [
+    {
+      "zone_a": "NUISANCE_SENSITIVE_ZONE",
+      "zone_b": "RESPONSE_FAMILY_DOMINANT_ZONE",
+      "directed_knn_cross_count": 148,
+      "undirected_support_score": 0.14785214785214784
+    },
+    {
+      "zone_a": "RESPONSE_FAMILY_DOMINANT_ZONE",
+      "zone_b": "RESPONSE_FAMILY_WITH_NFW_COMPETITIVE_ZONE",
+      "directed_knn_cross_count": 135,
+      "undirected_support_score": 0.13486513486513488
+    },
+    {
+      "zone_a": "MIXED_THREE_WAY_COMPETITIVE_ZONE",
+      "zone_b": "RESPONSE_FAMILY_DOMINANT_ZONE",
+      "directed_knn_cross_count": 82,
+      "undirected_support_score": 0.08191808191808192
+    },
+    {
+      "zone_a": "NUISANCE_SENSITIVE_ZONE",
+      "zone_b": "RESPONSE_FAMILY_WITH_NFW_COMPETITIVE_ZONE",
+      "directed_knn_cross_count": 56,
+      "undirected_support_score": 0.055944055944055944
+    },
+    {
+      "zone_a": "PATHOLOGY_ARCHIVE_ZONE",
+      "zone_b": "RESPONSE_FAMILY_DOMINANT_ZONE",
+      "directed_knn_cross_count": 55,
+      "undirected_support_score": 0.054945054945054944
+    },
+    {
+      "zone_a": "HALO_COMPARATOR_DOMINANT_ZONE",
+      "zone_b": "RESPONSE_FAMILY_DOMINANT_ZONE",
+      "directed_knn_cross_count": 47,
+      "undirected_support_score": 0.04695304695304695
+    },
+    {
+      "zone_a": "MIXED_THREE_WAY_COMPETITIVE_ZONE",
+      "zone_b": "RESPONSE_FAMILY_WITH_NFW_COMPETITIVE_ZONE",
+      "directed_knn_cross_count": 45,
+      "undirected_support_score": 0.04495504495504495
+    },
+    {
+      "zone_a": "MIXED_THREE_WAY_COMPETITIVE_ZONE",
+      "zone_b": "NUISANCE_SENSITIVE_ZONE",
+      "directed_knn_cross_count": 43,
+      "undirected_support_score": 0.04295704295704296
+    }
+  ],
+  "failure_boundary_event_count": 348,
+  "external_component_curve_material": "not available in package",
+  "not_claimed": [
+    "dark-matter exclusion",
+    "Lambda-CDM replacement",
+    "MOND/RAR falsification",
+    "NFW-halo falsification",
+    "new physical law discovery",
+    "external residual-level validation",
+    "universal exponent or physical constant"
+  ]
+}

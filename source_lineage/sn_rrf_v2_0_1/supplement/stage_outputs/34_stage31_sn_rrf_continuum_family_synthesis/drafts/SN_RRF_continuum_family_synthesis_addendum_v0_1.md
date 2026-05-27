@@ -1,0 +1,20 @@
+# SN-RRF Continuum-Family Synthesis Addendum
+
+## Title
+
+Scale-Normalized Residual Response Family: A Continuum-Kernel Synthesis of SPARC Rotation-Curve Residual Diagnostics
+
+## Summary
+
+This addendum extends the earlier A10/TVC-RRF and SN-RRF diagnostic sequence by replacing fixed-exponent language with a continuum-family interpretation.
+The original A10/TVC-derived kernel used a locked exponent `n = 3.258993`. Subsequent curve-level null-refit controls showed that this locked kernel defeats destructive nulls, but neighboring monotone-saturating kernels compete. Stage 30 therefore scanned a continuum grid of saturating kernels, `K_n(x)=x^n/(1+x^n)`, across 41 values from `n=0.5` to `n=12.0`.
+
+The Stage 30 continuum audit covered 143 valid galaxies with no missing or unreadable Rotmod cases. The best-n median was 2.25, with an interquartile range of [1.5, 3.2544965]. The locked exponent was within +2 AIC of the best continuum exponent for 0.322 of galaxies and within +10 AIC for 0.636 of galaxies. The median Delta AIC(locked n - best continuum n) was 6.292. All six Stage 30 guards passed.
+
+## Interpretation
+
+The continuum profile does not support the uniqueness of `n = 3.258993` as a universal fixed exponent. Instead, it supports a heterogeneous monotone-saturating residual-response family. In this corrected language, the A10/TVC exponent is retained as a representative and historically motivated diagnostic anchor, not as a physical law.
+
+## Claim boundary
+
+This addendum does not claim dark-matter exclusion, Lambda-CDM replacement, MOND/RAR defeat, a Bullet-Cluster explanation, proof of a TVC mechanism, or a Hubble-tension solution. It supports only a diagnostic continuum-family interpretation of SPARC rotation-curve residual responses under the tested protocol.
